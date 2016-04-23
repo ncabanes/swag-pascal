@@ -1,0 +1,52 @@
+SWAG Title: EXECUTION ROUTINES
+0001.PAS      05-28-93  13:45  "EXECHILD.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:45  "EXECINFO.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:45  "PROMPT.PAS" by SWAG SUPPORT TEAM
+0004.PAS      08-17-93  08:51  "Demonstrates DOS Exec" by SWAG SUPPORT TEAM
+0005.PAS      08-27-93  21:37  "Exec with Memory Shrink" by KELD R. HANSEN
+0006.PAS      10-28-93  11:30  "EXEC DOS in a Window" by MAYNARD PHILBROOK
+0007.PAS      10-28-93  11:31  "FIND AND EXECUTE" by GAYLE DAVIS
+0008.PAS      10-28-93  11:38  "Search Execute" by MIKE DICKSON
+0009.PAS      11-02-93  05:32  "Redirection in DOS" by MARTIN AUSTERMEIER
+0010.PAS      11-02-93  06:30  "Trapping INT29 Output" by TRISDARESA SUMARJOSO
+0011.PAS      11-02-93  10:33  "Change the MASTER Env" by KELLY SMALL
+0012.PAS      01-27-94  11:58  "Execution in a DOS Window" by TOM CARROLL
+0013.PAS      01-27-94  12:00  "Appending to EXE Files" by LARRY HADLEY
+0014.PAS      01-27-94  12:09  "DOS Windowed Ouput" by NORBERT IGL
+0015.PAS      01-27-94  12:14  "Self-Modifying EXE Files" by BJORN FELTEN
+0016.PAS      01-27-94  12:17  "Operating Modes" by FRED JOHNSON
+0017.PAS      01-27-94  12:24  "Yet Another Window Shell" by TOM CARROLL
+0018.PAS      02-03-94  10:49  "Nice DOS Shell Unit" by CARL YORK
+0019.PAS      02-03-94  16:18  "Hiding EXEC commands" by RADEK KADNER
+0020.PAS      02-15-94  08:06  "Shell to DOS with PROMPT" by GREG ESTABROOKS
+0021.PAS      05-25-94  08:09  "DOS Shell" by BILL MULLEN
+0022.PAS      05-26-94  08:32  "Execute PKZIP" by GAYLE DAVIS
+0023.PAS      08-24-94  13:36  "EXE Menu System" by DAVID ADAMSON
+0024.PAS      08-24-94  13:45  "Multiple DOS Calls" by FRANK DIACHEYSN
+0025.PAS      08-24-94  13:47  "Menu System" by MIKE PERRY
+0026.PAS      11-26-94  05:02  "DOS Exec with full memory" by THILO WAGNER
+0027.PAS      11-26-94  05:02  "Easy Prompt Changing in Shells" by STEVE ROGERS
+0028.PAS      11-26-94  05:02  "Finding the end of EXE" by ROB PERELMAN
+0029.PAS      02-28-95  10:06  "DOS Redirection" by SWAG SUPPORT TEAM
+0030.PAS      02-28-95  10:11  "Example of calling One program from anot" by SWAG SUPPORT TEAM
+0031.PAS      05-26-95  23:01  "Redirecting to a File" by DAVID G. EDWARDS
+0032.PAS      05-26-95  23:04  "EXE File Format" by ANDREW EIGUS
+0033.PAS      05-26-95  23:05  "EXE File Format Header" by JOHN STEPHENSON
+0034.PAS      09-04-95  10:48  "Using your EXE as a resource file" by SWAG SUPPORT TEAM
+0035.PAS      09-04-95  10:54  "Executing DOS Programs" by SWAG SUPPORT TEAM
+0036.PAS      11-22-95  13:29  "RE: Overlay Unit" by ARRON CUSIMANO
+0037.PAS      11-22-95  13:30  "Error Code Library" by ALEX RUSSKIH
+0038.PAS      11-22-95  15:49  "Overlay Library" by ALEX RUSSKIH
+0039.PAS      11-24-95  08:27  "Patching an EXE file" by SWAG SUPPORT TEAM
+0040.PAS      11-24-95  08:27  "Error Runtime Unit" by BRENT HERRING
+0041.PAS      11-25-95  09:25  "Checking loaded files" by JOHN BALDWIN
+0042.PAS      05-31-96  09:16  "Trap Runtime Errors" by FRANK HECKENBACH
+0043.PAS      05-31-96  09:16  "Anti-Debug unit" by BRAD ZAVITSKY
+0044.PAS      05-31-96  09:17  "RealMode code to modify EXE." by DUNCAN MCNIVEN
+0045.PAS      05-31-96  09:17  "Heap Management Tools" by DAVID DANIEL ANDERSON
+0046.PAS      05-31-96  09:17  "Compile all units in DIR" by SUNE MARCHER
+0047.PAS      05-31-96  09:17  "Get info about EXE file" by SUNE MARCHER
+0048.PAS      11-29-96  08:17  "Display all info in EXE header" by AVONTURE CHRISTOPHE
+0049.PAS      11-29-96  08:17  "Change constants in EXE files" by AVONTURE CHRISTOPHE
+0050.PAS      11-29-96  08:17  "Execute a file in the path" by SWAG SUPPORT TEAM
+0051.PAS      03-04-97  13:18  "Return the size of the exe file" by AVONTURE CHRISTOPHE

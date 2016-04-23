@@ -1,0 +1,45 @@
+SWAG Title: TSR UTILITIES AND ROUTINES
+0001.PAS      05-28-93  14:09  "CLKTSR.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  14:09  "Display "ON SCREEN" Clock" by TREVOR J. CARLSEN
+0003.PAS      05-28-93  14:09  "Clock ISR unit" by BOB SWART
+0004.PAS      05-28-93  14:09  "Prevent Ctl/Alt/Del Keys" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  14:09  "Screen Saver TSR" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  14:09  "General Purpose TSR Unit" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  14:09  "Remove TSR" by LARRY HADLEY
+0008.PAS      07-16-93  06:03  "Write to DISK in a TSR" by STEVE MULLIGAN
+0009.PAS      08-27-93  21:31  "Learning about TSR's" by SEAN PALMER
+0010.PAS      08-27-93  21:56  "Screen Save TSR" by STEVE CONNET
+0011.PAS      08-27-93  22:07  "Sample TSR Routine" by CHRIS PRIEDE
+0012.PAS      11-02-93  05:34  "TSR in DPMI Mode" by CEES BINKHORST
+0013.PAS      11-02-93  06:32  "Dealing with TSR's" by LOU DUCHEZ
+0014.PAS      11-02-93  06:32  "TSR template" by MARC BIR
+0015.PAS      11-02-93  06:32  "More TSR Stuff" by LOU DUCHEZ
+0016.PAS      11-02-93  17:03  "Screen Saver TSR" by ANDREW KEY
+0017.PAS      01-27-94  11:55  "TSR Clock" by WILBERT VAN LIEJEN
+0018.PAS      01-27-94  11:59  "TSR Disk Writes" by DAVID BRAATEN
+0019.PAS      01-27-94  12:21  "Screen Saver" by JAY A. KEY
+0020.PAS      01-27-94  12:23  "Clock 2" by AMIR FRENKEL
+0021.PAS      01-27-94  12:23  "TSR Skeleton" by ROB PERELMAN
+0022.PAS      02-03-94  07:07  "A Working TSR" by MIKE CHAMBERS
+0023.PAS      02-05-94  07:56  "Disable ctrl-alt-del" by LOU DUCHEZ
+0024.PAS      05-25-94  08:24  "Listing TSR's" by ALEX KARIPIDIS
+0025.PAS      08-24-94  13:27  "TSR" by JUAN JOSE VERGARA
+0026.PAS      08-24-94  13:41  "Grab A $13-Image TSR" by ALWIN LOECKX
+0027.PAS      08-24-94  13:44  "Tsr's In Turbo Pascal" by LUIS MEZQUITA
+0028.PAS      08-24-94  13:56  "TSR Screen Saver" by JUAN JOSE VERGARA
+0029.PAS      08-25-94  09:11  "Screen Scrool TSR" by ERIK ANDERSON
+0030.PAS      11-26-94  05:03  "Screen Blanker" by MAYNARD PHILBROOK
+0031.PAS      11-26-94  05:03  "Trapping Control C/Break/Alt-Del" by JOSE CAMPIONE
+0032.PAS      02-28-95  09:47  "Tsr's in 1K!" by MATTHEW TAGG
+0033.PAS      02-28-95  09:57  "NO Divide by zero TSR" by ARNE DE BRUIJN
+0034.PAS      05-26-95  23:01  "Checking for Installation" by DAVE JARVIS
+0035.PAS      05-26-95  23:07  "Determining if a TSR is installed alread" by DAVE JARVIS
+0036.PAS      05-26-95  23:08  "Gouraud Polygon Cube" by ALEX CHALFIN
+0037.PAS      05-26-95  23:30  "Unloading TSRs" by TOM MERTENS
+0038.PAS      09-04-95  10:55  "Overriding the Division By Zero Error" by ARNE DE.BRUIJN
+0039.PAS      09-04-95  11:00  "Super Compact TSR Model" by MATTHEW TAGG
+0040.PAS      09-04-95  11:56  "Sample for Unloading a TSR" by LARRY HADLEY
+0041.PAS      09-04-95  11:56  "Good TSR Example" by ADEDAYO TAYLOR
+0042.PAS      05-31-96  09:17  "Slow Down your PC for games" by SCOTT TUNSTALL
+0043.PAS      08-30-96  09:35  "Uninstalling TSR's" by HOVIK A. MELIKIAN
+0044.PAS      08-30-97  10:09  "TSR Writing Unit" by NIR SOFER

@@ -1,0 +1,65 @@
+SWAG Title: NOVELL/LANTASTIC NETWORK ROUTINES
+0001.PAS      05-28-93  13:52  "DETCNETX.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:52  "GET-ID1.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:52  "GET-ID2.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:52  "GET-ID3.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:52  "ISFILOPN.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:52  "LOCKREC.PAS" by SWAG SUPPORT TEAM
+0007.PAS      08-17-93  08:47  "NETINFO Unit" by SWAG SUPPORT TEAM
+0008.PAS      08-27-93  21:42  "Novell File Locking" by JEFF SHANNON
+0009.PAS      08-27-93  21:42  "Netware Bindary Object" by ROBERT KOHLBUS
+0010.PAS      08-27-93  21:49  "Network "Real" name" by KERRY SOKALSKY
+0011.PAS      11-21-93  09:43  "NETWARE User name" by NORBERT IGL
+0012.PAS      11-21-93  09:50  "WHOBE For NETWARE" by JIM ROBB
+0013.PAS      01-27-94  12:10  "Novell Detection" by DENNIS RUSH
+0014.PAS      01-27-94  12:16  "Novell User Name 2" by JIM ROBB
+0015.PAS      01-27-94  12:16  "Novell User Name 3" by GLENN CROUCH
+0016.PAS      01-27-94  12:16  "Novell Name" by JIM ROBB
+0017.PAS      01-27-94  12:23  "Using Novell?" by PER-ERIC LARSSON
+0018.PAS      02-15-94  07:51  "Misc NOVELL API Calls" by RICK RYAN
+0019.PAS      02-18-94  06:59  "Novell Detection" by NORBERT IGL
+0020.PAS      05-25-94  08:22  "Re: Get Server Date" by JIM ROBB
+0021.PAS      05-26-94  06:20  "NOVELL Library" by MARK BRAMWELL
+0022.PAS      05-26-94  11:03  "Novell IPX functions" by R. GILOMEN
+0023.PAS      08-24-94  13:48  "Netware Encrypted Login" by OLAF BARTELT
+0024.PAS      08-24-94  13:49  "Encryped logins" by NORBERT IGL
+0026.PAS      08-25-94  09:04  "Call NETAPI.DLL function" by ROBIN BOWES
+0027.PAS      08-25-94  09:09  "Networking" by MICHAEL HOENIE
+0028.PAS      08-25-94  09:10  "Novell Reading" by KEVIN R. PIERCE
+0029.PAS      05-26-95  23:05  "File Connections in Novell" by JIM ROBB
+0030.PAS      05-26-95  23:18  "IPX Packet Transfer" by GREG MILLER
+0031.PAS      05-26-95  23:21  "Novell 2.11 API" by DANIEL JOHN NYE
+0032.PAS      05-26-95  23:21  "IPX Chat Box" by WILLEM VAN DE VIS
+0033.PAS      09-04-95  10:51  "IPX Communication Protocol Primitives" by GREG MILLER
+0034.PAS      09-04-95  10:53  "Copy EXE TO Directory" by SWAG SUPPORT TEAM
+0035.PAS      09-04-95  10:55  "Getting NOVELL Passwords" by BERO@RAGE.FIDO.DE
+0036.PAS      11-29-96  08:17  "Netware 3.11 API Library - NetBind" by S.PEREVOZNIK
+0037.PAS      11-29-96  08:17  "Netware 3.11 API - Convert Numeric forma" by S.PEREVOZNIK
+0038.PAS      11-29-96  08:17  "Netware 3.11 API Library - File handling" by S.PEREVOZNIK
+0039.PAS      11-29-96  08:17  "Netware 3.11 API Library - NetInfo" by S.PEREVOZNIK
+0040.PAS      11-29-96  08:17  "Netware 3.11 API Library - File Locking" by S.PEREVOZNIK
+0041.PAS      11-29-96  08:17  "Netware 3.11 API Library - NetMsg" by S.PEREVOZNIK
+0042.PAS      11-29-96  08:17  "Netware 3.11 API Library - File Server" by S.PEREVOZNIK
+0043.PAS      11-29-96  08:17  "Netware 3.11 API Library - NetStat" by S.PEREVOZNIK
+0044.PAS      11-29-96  08:17  "Netware 3.11 API Library - NetTTS" by S.PEREVOZNIK
+0045.PAS      11-29-96  08:20  "Nice NETBIOS interface" by NICOLAI WADSTROUM
+0046.PAS      03-04-97  13:18  "Functions to handle BANYAN Network" by AVONTURE CHRISTOPHE
+0047.PAS      03-04-97  13:18  "Excellent IPX Unit" by JACK NEELY
+0048.PAS      08-30-97  10:08  "Network time" by SWAG SUPPORT TEAM
+0049.PAS      08-30-97  10:08  "Who is logged into your station" by SWAG SUPPORT TEAM
+0050.PAS      08-30-97  10:08  "Show the status of TENTOOL nodes" by SWAG SUPPORT TEAM
+0051.PAS      08-30-97  10:08  "TENTOOLS chatting module" by SWAG SUPPORT TEAM
+0052.PAS      08-30-97  10:08  "TENTOOLS module for network support" by SWAG SUPPORT TEAM
+0053.PAS      08-30-97  10:08  "TENTOOLS documentation" by SWAG SUPPORT TEAM
+0054.PAS      08-30-97  10:09  "AS/400 to ASCII converter" by TOBIAS SCHROEDEL
+0055.PAS      08-30-97  10:09  "NETBIOS Unit" by ALON GINGOLD
+0056.PAS      08-30-97  10:09  "Peek at network nodes" by SWAG SUPPORT TEAM
+0057.PAS      08-30-97  10:09  "Logging into a node" by SWAG SUPPORT TEAM
+0058.PAS      08-30-97  10:09  "Show next TENTOOL drive available" by SWAG SUPPORT TEAM
+0059.PAS      08-30-97  10:09  "TENTOOLS spooling to printer" by SWAG SUPPORT TEAM
+0060.PAS      08-30-97  10:09  "Log off TENTOOL nodes" by SWAG SUPPORT TEAM
+0061.PAS      01-02-98  07:35  "Novell unit for IPX" by KEN JOHNSON
+0062.PAS      01-02-98  07:35  "Send out IPX broadcast packets" by KEN JOHNSON
+0063.PAS      01-02-98  07:35  "Listen for and display an IPX packet" by KEN JOHNSON
+0064.PAS      01-02-98  07:35  "IPX packet unit" by KEN JOHNSON
+0065.PAS      01-02-98  07:35  "How to program IPX on Netware systems" by KENNETH JOHNSON

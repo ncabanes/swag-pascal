@@ -1,0 +1,293 @@
+SWAG Title: GRAPHICS ROUTINES
+0001.PAS      05-28-93  13:47  "DOTSPIN.PAS" by SEAN PALMER
+0002.PAS      05-28-93  13:47  "MCGATUT.TXT" by SWAG SUPPORT TEAM
+0003.PAS      07-16-93  06:46  "Simulate Star Field" by SWAG SUPPORT TEAM
+0004.PAS      07-16-93  06:47  "A simple Star Field" by SWAG SUPPORT TEAM
+0005.PAS      07-16-93  06:47  "A Color Star Field" by SWAG SUPPORT TEAM
+0006.PAS      08-23-93  09:18  "FAST Mode 13h Line Draw" by SEAN PALMER
+0007.PAS      08-27-93  19:57  "3D Rotations" by STEVE CONNET
+0008.PAS      08-27-93  20:02  "Endpoints of  PIE Segment" by THOMAS GROFF
+0009.PAS      08-27-93  20:03  "ASM Fading" by STEPHEN CHEOK
+0010.PAS      08-27-93  20:14  "Including BGI in EXE" by RANDY PARKER
+0011.PAS      08-27-93  20:16  "Very Large Graphic Image" by WILBER VAN LEIJEN
+0012.PAS      08-27-93  20:18  "Display Text in Graphics" by RAPHAEL VANNEY
+0013.PAS      08-27-93  20:18  "Bit Map scaler" by SEAN PALMER
+0014.PAS      08-27-93  20:25  "Drawing Graphic Circles" by MICHAEL NICOLAI
+0015.PAS      08-27-93  20:25  "More Graphic Circles" by MICHAEL NICOLAI
+0016.PAS      08-27-93  20:25  "Another Circle Routine" by MIKE BURNS
+0017.PAS      08-27-93  20:28  "Simple coppering routine" by SEAN PALMER
+0018.PAS      08-27-93  21:03  "Screen Fades" by CHRIS BEISEL
+0019.PAS      08-27-93  21:25  "Graphic FX Unit" by ANDRE JAKOBS
+0020.PAS      08-27-93  21:27  "A Simple Graph Unit" by SWAG SUPPORT TEAM
+0021.PAS      08-27-93  21:37  "ModeX Code" by MARK DIXON
+0022.PAS      08-27-93  21:52  "Rotate Grahic Image" by MIKE BRENNAN
+0023.PAS      08-27-93  21:52  "Another Graphic Rotate" by SEAN PALMER
+0024.PAS      08-27-93  21:52  "Rotate PIC" by WILLIAM SITCH
+0025.PAS      08-27-93  21:58  "Graphic Spinning Disk" by WILLIAM SITCH
+0026.PAS      08-27-93  21:59  "Drawing a B-Spline curve" by SEAN PALMER
+0027.PAS      08-27-93  21:59  "Another B-Spline Curve" by SEAN PALMER
+0028.PAS      08-27-93  22:00  "Another Star field" by BRENDEN BEAMAN
+0029.PAS      08-27-93  22:08  "TWEAKED! Graph unit" by SEAN PALMER
+0030.PAS      10-28-93  11:35  "View PCX File" by NORMAN YEN
+0031.PAS      10-28-93  11:39  "Another STARS" by BAS VAN GALLEN
+0032.PAS      11-02-93  04:50  "Simple & QUICK Graphics" by STEVE BOUTILIER
+0033.PAS      11-02-93  05:30  "Display PCX Files" by NORMAN YEN
+0034.PAS      11-02-93  05:31  "Display PIC Files" by DAVE FOSTER
+0035.PAS      11-02-93  05:49  "Writing to Graphic Pages" by RANDY PARKER
+0036.PAS      11-02-93  05:52  "Scalable HEX Screen" by VINCE LAURENT
+0037.PAS      11-02-93  05:54  "Quick PutImage" by NICK ONOUFRIOU
+0038.PAS      11-02-93  05:55  "Loading Images from Disk" by STEFAN XENOS
+0039.PAS      11-02-93  05:56  "Another QUICK PutImage" by SEAN PALMER
+0040.PAS      11-02-93  06:11  "Fading" by KEVIN OTTO
+0041.PAS      11-02-93  17:24  "Transparent PutImage" by SEAN PALMER
+0042.PAS      11-02-93  17:44  "Bresenham Line" by SEAN PALMER
+0043.PAS      11-21-93  09:28  "Create Chars in Graphics" by MICHAEL HOENIE
+0044.PAS      11-21-93  09:44  "Writing PCX files" by WILLIAM PLANKE
+0045.PAS      11-26-93  17:01  "DISPLAY Text in Graphics" by RAPHAEL VANNEY
+0046.PAS      01-27-94  11:51  "3D Rotation" by PETER M. GRUHN
+0047.PAS      01-27-94  11:58  "Bresenham's Line" by SEAN PALMER
+0048.PAS      01-27-94  12:05  "Gif Source 1" by LIOR BAR-ON
+0049.PAS      01-27-94  12:07  "GIF Code" by THORSTEN BARTH
+0050.PAS      01-27-94  12:07  "VGA256 Unit" by BERNIE PALLEK
+0051.PAS      01-27-94  12:07  "Line Drawing" by JASEN BETTS
+0052.PAS      01-27-94  12:09  "Graphics Images" by JORDAN PHILLIPS
+0053.PAS      01-27-94  12:11  "Flood Filling" by SEAN PALMER
+0054.PAS      01-27-94  12:13  "Masked Images" by TIM JENSEN
+0055.PAS      01-27-94  12:14  "ModeX Scrolling" by JENS LARSSON
+0056.PAS      01-27-94  12:15  "Images" by RICHARD MOREY
+0057.PAS      01-27-94  12:17  "Palette Maniputlation" by DAVID DAHL
+0058.PAS      01-27-94  12:17  "PCX Files" by LIOR BAR-ON
+0059.PAS      01-27-94  12:18  "Plasma" by DAVID DAHL
+0060.PAS      01-27-94  12:18  "Poly Drawing" by SEAN PALMER
+0061.PAS      01-27-94  12:20  "COD Images" by KAI ROHRBACHER
+0062.PAS      01-27-94  12:21  "Shade Bobs" by BAS VAN GAALEN
+0063.PAS      01-27-94  12:22  "Sprite Talk" by SEAN PALMER
+0064.PAS      01-27-94  12:22  "Sprite Info" by HARALDS JAKOVELS
+0065.PAS      01-27-94  12:23  "Textures" by VARIOUS - SEE BELOW
+0066.PAS      01-27-94  12:25  "PCX Writing" by WILLIAM PLANKE
+0067.PAS      01-27-94  13:32  "Mode 13 Demo" by GREG ESTABROOKS
+0068.PAS      01-27-94  13:32  "Misc Graphic Functions" by GREG ESTABROOKS
+0069.PAS      01-27-94  17:32  "3D Graphics Box" by PETER KOLDING
+0070.PAS      01-27-94  17:37  "Moving a Shape across CRT" by BAS VAN GAALEN
+0071.PAS      01-27-94  17:46  "3D Landscape Source" by SEAN PALMER
+0072.PAS      01-27-94  17:46  "MODE 13H Graphics Unit" by BERNIE PALLEK
+0073.PAS      02-03-94  09:18  "RIP Bezier Curves" by SEAN PALMER
+0074.PAS      02-03-94  09:19  "More RIP Bezier Curves" by SCOTT BRADSHAW
+0075.PAS      02-03-94  09:19  "Another Bezier Curve" by NICK ONOUFRIOU
+0076.PAS      02-03-94  10:55  "Fire Graphic" by FIASAL JUMA
+0077.PAS      02-03-94  10:58  "Writing Text in Graphics" by SWAG SUPPORT TEAM
+0078.PAS      02-03-94  16:17  "Loading PCX Files" by OLAF BARTELT
+0079.PAS      02-03-94  16:18  "Making VGA Rain" by DON LABARRE
+0080.PAS      02-03-94  16:19  "Vector coding" by BAS VAN GAALEN
+0081.PAS      02-05-94  07:56  "Moving landscape" by BAS VAN GAALEN
+0082.PAS      02-09-94  11:50  "CheckerBoard" by DAVID DAHL
+0083.PAS      02-18-94  06:59  "Textmode Effects" by LENNERT BAKKER
+0084.PAS      05-25-94  08:02  "7 Segment clock" by WIM VAN DER VEGT
+0085.PAS      05-25-94  08:02  "Virtual Screens" by RYAN PETRIE
+0086.PAS      05-25-94  08:13  "Fading UNIT" by FLORIAN ANSORGE
+0087.PAS      05-25-94  08:20  "Delux Paint II LBM decode" by WIM VAN DER VEGT
+0088.PAS      05-25-94  08:20  "PCX *IN* Pascal!" by RICKY BOOTH
+0089.PAS      05-25-94  08:20  "Plasma" by PETER GRUHN
+0090.PAS      05-25-94  08:20  "RE: PLASMA  (revisited)" by KAARE BOEEGH
+0091.PAS      05-25-94  08:21  "Re: Virtual Reality." by JOHN SHIPLEY
+0092.PAS      05-25-94  08:22  "Ribbon scroll.." by GLEN JEH
+0093.PAS      05-25-94  08:22  "Multicolour Text Scroll" by OSCAR WAHLBERT
+0094.PAS      05-25-94  08:23  "Faster Sprites" by PIETER KIRKHAM
+0095.PAS      05-25-94  08:23  "Starry night simulation" by ANDREW GOLOVIN
+0096.PAS      05-25-94  08:25  "Wormhole" by ALEX CHALFIN
+0097.PAS      05-26-94  06:18  "Image to File" by PAUL BROMAN
+0098.PAS      05-26-94  06:18  "Screen Dump To File" by MARTIN RICHARDSON
+0099.PAS      05-26-94  06:20  "Pascal Image" by SEAN MARTENS
+0100.PAS      05-26-94  06:20  "PLASMA" by KAARE BOEEGH
+0101.PAS      05-26-94  10:58  "GIF Viewing" by SEAN WENZEL
+0102.PAS      08-24-94  12:55  "3D Rotation Objects" by DAVID ROZENBERG
+0103.PAS      08-24-94  13:26  "Bounce v1.1" by JOHN HOWARD
+0104.PAS      08-24-94  13:27  "Cannon Ball Animation" by LUIS MEZQUITA RAYA
+0105.PAS      08-24-94  13:28  "Coordinate Systems" by JOHN HOWARD
+0106.PAS      08-24-94  13:32  "DOT Matrix LED Effect" by IAIN WHYTE
+0107.PAS      08-24-94  13:37  "Fast Line Drawing" by JENS LARSSON
+0108.PAS      08-24-94  13:37  "Fast Polygons" by DAAN DE HAAS
+0109.PAS      08-24-94  13:38  "Fire Graphic" by ALEX CHALFIN
+0110.PAS      08-24-94  13:40  "FONTS WITH TURBOPASCAL V7" by FRED JOHNSON
+0111.PAS      08-24-94  13:40  "Gif info display" by DAVID DANIEL ANDERSON
+0112.PAS      08-24-94  13:41  "Graphic Compression" by ERIC MILLER
+0113.PAS      08-24-94  13:42  "Pallete Handling" by PAUL BROMAN
+0114.PAS      08-24-94  13:46  "MODE-X Routines" by GARTH KRUMINS
+0115.PAS      08-24-94  13:50  "Pcx Viewer!" by JAMES COOK
+0116.PAS      08-24-94  13:50  "Vga 256 Color PCX" by OLAF BARTELT
+0117.PAS      08-24-94  13:50  "Pcx Bitmap Rotating" by ANDREW EIGUS
+0118.PAS      08-24-94  13:50  "Grabbing Pixel Color" by JENS LARSSON
+0119.PAS      08-24-94  13:50  "Landscape" by MARCIN BORKOWSKI
+0120.PAS      08-24-94  13:50  "plasma" by JONAS MALMSTEN
+0121.PAS      08-24-94  13:50  "VGA 640X480x16" by OLAF BARTELT
+0122.PAS      08-24-94  13:51  "Moving Poligon" by LUIS MEZQUITA
+0123.PAS      08-24-94  13:56  "SCI File Viewer" by SIMEON SPRY
+0124.PAS      08-24-94  13:56  "Scroll Bars" by BAS VAN GAALEN
+0125.PAS      08-24-94  13:56  "Scrolling Images" by JENS LARSSON
+0126.PAS      08-24-94  13:58  "Sprite Game" by JOHN HOWARD
+0127.PAS      08-24-94  13:58  "More STAR-ROUTINE" by BAS VAN GAALEN
+0128.PAS      08-24-94  17:50  "Another Fire Graphic" by ERIC COOLMAN
+0129.PAS      08-24-94  17:53  "Transparent 3D Vectors" by DAVID DAHL
+0130.PAS      08-24-94  17:53  "GRAPHICS ROUTINES" by GARTH KRUMINS
+0131.PAS      08-24-94  17:54  "Save/Restore Graphics" by RICH VERAA
+0132.PAS      08-24-94  17:55  "X3dunit" by LUIS MEZQUITA
+0133.PAS      08-24-94  17:56  "X-mode Write Mode Example" by ANDREW GOLOVIN
+0134.PAS      08-25-94  09:07  "Fastest Putpixel?" by KIMMO K K FREDRIKSSON
+0135.PAS      08-25-94  09:08  "Virtual world plotting" by YUAN LIU
+0136.PAS      08-25-94  09:11  "Stars AGAIN!!!!" by MIKE CHURCH
+0137.PAS      08-25-94  09:11  "Storing 3D Graphics" by BOB SCHOR
+0138.PAS      11-26-94  05:01  "Flame Code" by DEGRACE KEITH
+0139.PAS      11-26-94  05:01  "Mandelbrot and Julia Maker" by MIGUEL MARTINEZ
+0140.PAS      11-26-94  05:01  "Gouraud Shading" by JOHN HOWARD
+0141.PAS      11-26-94  05:01  "Bitmap Scaler" by ALEX CHALFIN
+0142.PAS      11-26-94  05:01  "JPEG/JFIF Height & Width" by RENE VAN HOORN
+0143.PAS      11-26-94  05:01  "JPEG Specs" by OLIVER FROMME
+0144.PAS      11-26-94  05:02  "Programming Mode $12 Graphics" by JORT BLOEM
+0145.PAS      11-26-94  05:02  "Mode-X Raw Image Put" by BAS VAN GAALEN
+0146.PAS      11-26-94  05:02  "TRON Game" by LUIS EVARISTO FONSECA
+0147.PAS      11-26-94  05:02  "X-Mode Full Information" by ROBERT SCHMIDT
+0148.PAS      11-26-94  05:02  "Azimuth line" by BRENT HERRING
+0149.PAS      11-26-94  05:02  "Fast Snow Flakes" by WILLIAM BARATH
+0150.PAS      11-26-94  05:02  "Loading 256 Color Bitmaps" by KRISJANIS GALE
+0151.PAS      11-26-94  05:02  "Sprite Engine" by MARIUS KJELDAHL
+0152.PAS      11-26-94  05:02  "Gravity" by BAS VAN GAALEN
+0153.PAS      11-26-94  05:02  "SVGA Plotting that WORKS!" by JASON RENNIE
+0154.PAS      11-26-94  05:02  "Partial Screen Fades" by TOMER LICHTASH
+0155.PAS      11-26-94  05:02  "Voxel-Graphics Engine" by BAS VAN GAALEN
+0156.PAS      11-26-94  05:02  "credits scroller" by BAS VAN GAALEN
+0157.PAS      11-26-94  05:02  "Voxel-Graphics Explained" by PATRICK LEUNG
+0158.PAS      11-26-94  05:02  "Show Mono PCX file" by ROB HARBERS
+0159.PAS      11-26-94  05:02  "Wormhole" by BAS VAN GAALEN
+0160.PAS      11-26-94  05:02  "Gravity display" by CAMERON CLARK
+0161.PAS      11-26-94  05:02  "Just a little GFX TPU..." by CHRIS AUSTIN
+0162.PAS      11-26-94  05:02  "Capture/Restore Graphics Screen" by KRESIMIR MIHALJ
+0163.PAS      11-26-94  05:02  "Snow fall graphic" by WILLIAM BARATH
+0164.PAS      11-26-94  05:02  "Another Wormhole" by BAS VAN GAALEN
+0165.PAS      02-28-95  10:00  "sprites w/ virtual screen" by CAMERON CLARK
+0166.PAS      02-28-95  10:06  "Line & Circle routines" by ALLYN CROSS
+0167.PAS      02-28-95  10:06  "Vector Line Intersection" by PAUL SANTA-MARIA
+0168.PAS      02-28-95  10:06  "pouring sand" by MARCIN BORKOWSKI
+0169.PAS      02-28-95  10:10  "Texture Vector" by ALEX CHALFIN
+0170.PAS      02-28-95  10:11  "Voxels" by ALEX CHALFIN
+0171.PAS      05-26-95  22:59  "BMP File Format" by KRIS VANDERMOTTEN
+0172.PAS      05-26-95  22:59  "BMP and PCX File Format Descriptions" by JAN WILMANS
+0173.PAS      05-26-95  22:59  "Bresnaham Circle Algorithm" by JASON RENNIE
+0174.PAS      05-26-95  23:00  "Double and Triple Buffering" by MARCIN BORKOWSKI
+0175.PAS      05-26-95  23:00  "Draing Circles in Mode-X" by RICK HAINES
+0176.PAS      05-26-95  23:05  "Floodfill" by CHRISTOPHER CHANDRA
+0177.PAS      05-26-95  23:09  "BASM Getimage and Putimage" by JASON RENNIE
+0178.PAS      05-26-95  23:19  "3D Graphics Algorithms" by ALEX CHALFIN
+0179.PAS      05-26-95  23:23  "VGA - Borland Palette Explained" by RANDALL ELTON DING
+0180.PAS      05-26-95  23:23  "Super Palette Unit" by RICK HAINES
+0181.PAS      05-26-95  23:25  "Super Fast Polys" by JEROEN BOUWENS
+0182.PAS      05-26-95  23:25  "Fast Get/PutImage" by GERALD GUTIERREZ
+0183.PAS      05-26-95  23:25  "Another Quick PutImage" by DAVID CORDER
+0184.PAS      05-26-95  23:25  "Transparent PutImage" by JASON RENNIE
+0185.PAS      05-26-95  23:31  "Vector Math & Routines" by CLIVE MOSES
+0186.PAS      05-27-95  10:34  "Easy Creation of BITMAPS" by BOJAN LANDEKIC
+0187.PAS      05-27-95  10:36  "Display a rotating spiral" by MARIO VAN DEN ANCKER
+0188.PAS      09-04-95  10:27  "3D Rotation" by AXEL PLINGE
+0189.PAS      09-04-95  10:27  "Graphics Cube Rotations" by KISZLEY LASZLO
+0190.PAS      09-04-95  10:57  "Rotating Screen Spiral" by MARIO VAN DEN ANCKER
+0191.PAS      09-04-95  11:04  "3840 Color Mode X" by DAVID DAHL
+0192.PAS      11-22-95  13:21  "A Putpixel Benchmark" by ANDREAS JUNG
+0193.PAS      11-22-95  13:22  "BMP headers" by HERMAN DULLINK
+0194.PAS      11-22-95  13:27  "FLI Format & Source" by TOMASZ FORMANOWSKI
+0195.PAS      11-22-95  13:27  "Graphics In Assembler" by JANI ALANEN
+0196.PAS      11-22-95  13:27  "Gif decoder" by PAUL HURST
+0197.PAS      11-22-95  13:27  "Simple 320x200x256 graphi" by CHRIS AUSTIN
+0198.PAS      11-22-95  13:27  "Check for graphmode" by PING HANSEN
+0199.PAS      11-22-95  13:29  "Re: PHONG Shading (PLASMA)" by ALEXIS DOMJAN
+0200.PAS      11-22-95  13:30  "SAVEPCX.PAS" by KEVIN LUCK
+0201.PAS      11-22-95  13:32  "GIF DECODER" by ARNE DE BRUIJN
+0202.PAS      11-22-95  13:33  "VESA BMP Viewer" by HERMAN DULLINK
+0203.PAS      11-22-95  15:49  "Yet another PCX viewer" by JANI ALANEN
+0204.PAS      02-21-96  21:03  "BGI Get/Put Unit" by UDO JUERSS
+0205.PAS      02-21-96  21:04  "Drawing DOOM-like floors" by GEORGE HARROWER
+0206.PAS      02-21-96  21:04  "Pupixel Procedure!" by ANDREW BURCH
+0207.PAS      05-31-96  09:16  "A short FIRE routine" by MIKE FLYNN
+0208.PAS      05-31-96  09:16  "PCX Viewer" by JAVIER PEREZ VIGO
+0209.PAS      05-31-96  09:16  "Partial JPEG File info" by CAMERON CLARK
+0210.PAS      05-31-96  09:16  "Orbit Simulator" by RYAN@EMIKO.IGCOM.NET
+0211.PAS      05-31-96  09:16  "Mode-X one row pixel move" by JONAS MAEBE
+0212.PAS      05-31-96  09:17  "GIF Extract Utility" by SCOTT TUNSTALL
+0213.PAS      05-31-96  09:17  "Grab 256 Color PCX and save to file" by SCOTT TUNSTALL
+0214.PAS      05-31-96  09:17  "Graphics Image Viewer" by SCOTT TUNSTALL
+0215.PAS      05-31-96  09:17  "Interesting Circle Graphics" by SUNE MARCHER
+0216.PAS      05-31-96  09:17  "Interesting Flaming Lines Graphic" by SUNE MARCHER
+0217.PAS      05-31-96  09:17  "Nice Graphics Unit" by SUNE MARCHER
+0218.PAS      05-31-96  09:17  "Morphing lines" by SUNE MARCHER
+0219.PAS      05-31-96  09:17  "Various SINUS Graphics" by SUNE MARCHER
+0220.PAS      05-31-96  09:17  "Hypnotic Sinus Demo" by SUNE MARCHER
+0221.PAS      05-31-96  09:17  "Improved Graphics Rountines Part 1" by SCOTT TUNSTALL
+0222.PAS      05-31-96  09:17  "Improved Graphics Rountines Part 2" by SCOTT TUNSTALL
+0223.PAS      08-30-96  09:35  "Fast Pcx-Routines" by CARLOS SANCHEZ GARCIA
+0224.PAS      08-30-96  09:35  "Integer Graphics Scaler" by DREW SHAFER
+0225.PAS      08-30-96  09:36  "Critters Graphics Display" by RON NOSSAMAN
+0226.PAS      08-30-96  09:36  "Yet Another Plasma Drawing Example" by RON NOSSAMAN
+0227.PAS      11-29-96  08:17  "Graphics Library (BP7)" by MENNO VICTOR VAN DER STAR
+0228.PAS      11-29-96  08:17  "Very FAST VGA Graphics unit" by SCOTT TUNSTALL
+0229.PAS      11-29-96  08:17  "Very nice Graphics screen clock" by SWAG SUPPORT TEAM
+0230.PAS      11-29-96  08:17  "How to draw grapichs grids" by JACK NEELY
+0231.PAS      11-29-96  08:17  "Green Fire Program" by NICK SLAUGHTER
+0232.PAS      11-29-96  08:17  "Procedure to load ICONS in grahics mode" by SWAG SUPPORT TEAM
+0233.PAS      11-29-96  08:17  "Procedures NOT needing BGI stuff" by SEAN O'MALLEY
+0234.PAS      11-29-96  08:17  "Load and display 256 color bitmaps" by SWAG SUPPORT TEAM
+0235.PAS      11-29-96  08:17  "Another FLAME Demo" by NELSON CHU
+0236.PAS      11-29-96  08:17  "Fast PUTIMAGE" by PETR SULLA
+0237.PAS      11-29-96  08:17  "3D Raycasting engine w/joystick control" by WILLIAM YU
+0238.PAS      11-29-96  08:17  "Integer Math Starfield" by JACK MOTT
+0239.PAS      11-29-96  08:17  "Load in a 256 colour PCX and save" by SCOTT TUNSTALL
+0240.PAS      11-29-96  08:17  "Display scaleable LCD numbers" by LEOPOLDO SALVO MASSIEU
+0241.PAS      11-29-96  08:19  "Yet another FIRE routine" by GERHARD PIRAN
+0242.PAS      11-29-96  08:21  "Simple Lightning effect" by NELSON CHU
+0243.PAS      11-29-96  08:21  "Magnify glass moving over ANY background" by JACO VAN NIEKERK
+0244.PAS      03-04-97  13:18  "Fast Graphics Unit" by SWAG SUPPORT TEAM
+0245.PAS      03-04-97  13:18  "Least Squares method interpolation" by ALEKSANDAR DLABAC
+0246.PAS      03-04-97  13:18  "Bezier Curve Example" by ALEKSANDAR DLABAC
+0247.PAS      03-04-97  13:18  "Complete Unit for BMP Images" by ALEKSANDAR DLABAC
+0248.PAS      03-04-97  13:18  "FAST ASM Clipped Masking" by WESLEY BURNS
+0249.PAS      03-04-97  13:18  "Fast graphics - PutPixel and Circle" by RYAN JONES
+0250.PAS      03-04-97  13:18  "Another Fractal 3D" by RYAN JONES
+0251.PAS      03-04-97  13:18  "Yet Another Fractal 3D" by RYAN JONES
+0252.PAS      03-04-97  13:18  "Dos Icon Viewer" by AVONTURE CHRISTOPHE
+0253.PAS      03-04-97  13:18  "Graphics Screen Handling unit" by SWAG SUPPORT TEAM
+0254.PAS      03-04-97  13:18  "Scrolling Map: Graphics" by WESLEY BURNS
+0255.PAS      03-05-97  06:05  "Load 256 color pcx images" by SWAG SUPPORT TEAM
+0256.PAS      05-30-97  18:17  "SWAG GRAPHICS - Animation" by WESLEY BURNS
+0257.PAS      05-30-97  18:17  "BMP Loader/Saver" by ELTETO EDMOND
+0258.PAS      05-30-97  18:17  "Graphic tetris game" by SWAG SUPPORT TEAM
+0259.PAS      05-30-97  18:17  "Starfield Simulator>" by TOMAS LAURENZO CORONEL
+0260.PAS      05-30-97  18:17  "Yet another FLAMES unit" by TOMAS LAURENZO CORONEL
+0261.PAS      05-30-97  18:17  "Organizes Palette of 256 Color PCX" by SCOTT TUNSTALL
+0262.PAS      05-30-97  18:17  "PCX Cache for graphics" by SCOTT TUNSTALL
+0263.PAS      05-30-97  18:17  "TWEAK source of fastest known ellipse" by GERD.PLATL@SIEMENS.AT
+0264.PAS      05-30-97  18:17  "TP7.0 source of fastest known ellipse" by GERD.PLATL@SIEMENS.AT
+0265.PAS      05-30-97  18:17  "Grab Screen Image and Save to Disk" by LANDON RABERN
+0266.PAS      05-30-97  18:17  "Very Complete Graphics Unit" by SCOTT TUNSTALL
+0267.PAS      08-30-97  10:08  "3D TEXTURES" by PAVEL STRATIL
+0268.PAS      08-30-97  10:08  "A nice 2 player game" by BOSTJAN GABROVSEK
+0269.PAS      08-30-97  10:08  "Cool 3D Wavig Flag" by BOSTJAN GABROVSEK
+0270.PAS      08-30-97  10:08  "Falling Snow Demo" by BOSTJAN GABROVSEK
+0271.PAS      08-30-97  10:08  "Electric Shock" by BOSTJAN GABROVSEK
+0272.PAS      08-30-97  10:08  "A nice game against the computer" by BOSTJAN GABROVSEK
+0273.PAS      08-30-97  10:08  "VERY FAST VGA Unit" by BRAD ALLRED
+0274.PAS      08-30-97  10:08  "Wormhole Graphic" by JACO VAN NIEKERK
+0275.PAS      08-30-97  10:08  "Get close RGB color palette" by SCOTT TUNSTALL
+0276.PAS      08-30-97  10:08  "Fastest known ellipse algorithm" by GERD.PLATL@SIEMENS.AT
+0277.PAS      08-30-97  10:08  "Fast Phong Shading" by TOM HAMMERSLEY
+0278.PAS      08-30-97  10:08  "3D LAMBERT/GOURAUD" by PAVEL STRATIL
+0279.PAS      08-30-97  10:09  "Line Demo" by BOSTJAN GABROVSEK
+0280.PAS      08-30-97  10:09  "Fast 3D Wavig Flag" by BOSTJAN GABROVSEK
+0281.PAS      08-30-97  10:09  "3D stereogram maker" by BOSTJAN GABROVSEK
+0282.PAS      08-30-97  10:09  "Spline code 4 SWAG" by RON NOSSAMAN
+0283.PAS      08-30-97  10:09  "demonstrate the fast blit functions of K" by SCOTT TUNSTALL
+0284.PAS      08-30-97  10:21  "Fast Assembler Graph Unit" by OSKARI RAUTA
+0285.PAS      01-02-98  07:34  ""transparent sphere" routine" by SCOTT TUNSTALL
+0286.PAS      01-02-98  07:34  "Water ripple demo" by SCOTT TUNSTALL
+0287.PAS      01-02-98  07:35  "Very fast and usable graphics unit" by PAVEL STRATIL
+0288.PAS      01-02-98  07:35  "File Indexer" by MIGUEL_ANGEL
+0289.PAS      01-02-98  07:35  "VGA 13h-mode unit for fast graphics" by HARDBREAKER
+0290.PAS      01-02-98  07:35  "Space Sprites Program" by HUGO ROZAS
+0291.PAS      01-02-98  07:35  "Draw 320x200 in X-Mode" by KJETIL FURNES
+0292.PAS      01-02-98  07:35  "Frequency Domain Simulation" by ROBY JOHANES

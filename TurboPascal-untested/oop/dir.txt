@@ -1,0 +1,93 @@
+SWAG Title: OOP/TURBO VISION ROUTINES
+0001.PAS      05-28-93  13:53  "CENTRDLG.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:53  "COUNTDLG.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:53  "DELAYDLG.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:53  "FILEDLG1.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:53  "FILEDLG2.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:53  "NUMVIEW.PAS" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:53  "OBJ-DESC.PAS" by KEN BURROWS
+0008.PAS      05-28-93  13:53  "OOP-EXMP.PAS" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:53  "OOP-HTKY.PAS" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:53  "OOP-STRG.PAS" by LARRY HADLEY
+0011.PAS      05-28-93  13:53  "OOP-WIND.PAS" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:53  "OOPCOPY.PAS" by ANDRES CVITKOVICH
+0013.PAS      05-28-93  13:53  "OOPINFO.PAS" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:53  "OOPMENU.PAS" by SWAG SUPPORT TEAM
+0015.PAS      05-28-93  13:53  "OOPOBJS.PAS" by SCOTT RAMSAY
+0016.PAS      05-28-93  13:53  "SORTCOLL.PAS" by SWAG SUPPORT TEAM
+0017.PAS      05-28-93  13:53  "STATUDLG.PAS" by SWAG SUPPORT TEAM
+0018.PAS      05-28-93  13:53  "STROBJ.PAS" by SWAG SUPPORT TEAM
+0019.PAS      05-28-93  13:53  "TV-ANSI.PAS" by SWAG SUPPORT TEAM
+0020.PAS      05-28-93  13:53  "TV-HELP.PAS" by SWAG SUPPORT TEAM
+0021.PAS      05-28-93  13:53  "VIEWCOLR.PAS" by SWAG SUPPORT TEAM
+0022.PAS      05-28-93  13:53  "XCDIALOG.PAS" by SWAG SUPPORT TEAM
+0023.PAS      08-17-93  08:47  "Dynamic OPP Box Object" by SWAG SUPPORT TEAM
+0024.PAS      08-27-93  20:37  "Passing method as OBJect" by STUART MACLEAN
+0025.PAS      08-27-93  21:43  "Password for TVision" by EDWIN GROOTHUIS
+0026.PAS      11-02-93  16:45  "Efficient Turbo Vision" by BRIAN RICHARDSON
+0027.PAS      11-02-93  18:37  "Flexible OOP Array" by TODD HOLMES
+0028.PAS      11-02-93  18:39  "PICKLIST in Turbo Vision" by BRIAN PAPE
+0029.PAS      01-27-94  11:58  "Valid Directories" by LARRY HADLEY
+0030.PAS      01-27-94  12:16  "Object Checking" by DJ MURDOCH
+0031.PAS      01-27-94  12:19  "TVision Extension" by DJ MURDOCH
+0032.PAS      01-27-94  12:22  "OOP Stack Object" by LARRY HADLEY
+0033.PAS      01-27-94  12:23  "TVision Backgrounds" by MARTIN WERNER
+0034.PAS      01-27-94  12:23  "Dialogs in TVision" by KEN BURROWS
+0035.PAS      02-15-94  08:09  "Extended TV GADGETS" by DONN AULT
+0036.PAS      02-15-94  08:40  "ScreenSaver Object" by M. FIEL
+0037.PAS      02-15-94  08:41  "Recursive Expression Pars" by M. FIEL
+0038.PAS      05-25-94  08:00  "Printing A tcollection" by BRIAN RICHARDSON
+0039.PAS      05-26-94  10:58  "INI files in TV/OWL" by SWAG SUPPORT TEAM
+0040.PAS      05-26-94  11:04  "TV Library Objects" by DEVIN COOK
+0041.PAS      08-24-94  17:56  "TurboVison BUTTONS" by PAB SUNGENIS
+0042.PAS      08-25-94  09:07  "String List Object" by RANDALL WOODMAN
+0043.PAS      08-25-94  09:10  "Defining array sizes" by KEN.BURROWS@TELOS.ORG
+0044.PAS      08-26-94  08:32  "Clock on Menubar" by DANNY THORPE
+0045.PAS      08-26-94  08:32  "Change T.V. Colors" by SWAG SUPPORT TEAM
+0046.PAS      11-26-94  05:04  "Event Handling in Turbo Vision" by KEN BURROWS
+0047.PAS      11-26-94  05:04  "Scrollbar Object" by WILLEM VAN DE VIS
+0048.PAS      11-26-94  05:04  "Tinput for Passwords" by NICK WALTER
+0049.PAS      11-26-94  05:04  "Elimating Menu Bar in TV" by JOHN HOWARD
+0050.PAS      11-26-94  05:04  "Alternative Sorts in TVISON" by DJ MURDOCH
+0051.PAS      02-28-95  09:47  "Example TInputline" by SWAG SUPPORT TEAM
+0052.PAS      02-28-95  09:47  "Example Static Menu Bar" by SWAG SUPPORT TEAM
+0053.PAS      02-28-95  09:53  "TV Broadcast Message" by SWAG SUPPORT TEAM
+0054.PAS      02-28-95  10:00  "TV Formatline Unit" by JOHN SPRENGER
+0055.PAS      02-28-95  10:01  "Example of TV Dir Collection" by SWAG SUPPORT TEAM
+0056.PAS      02-28-95  10:01  "Another Example of TV Dir Collection" by SWAG SUPPORT TEAM
+0057.PAS      02-28-95  10:04  "TV Password Unit" by MARK VAN LEEUWEN
+0058.PAS      02-28-95  10:04  "TV Pick list example" by SWAG SUPPORT TEAM
+0059.PAS      05-26-95  23:00  "Buffered File I/O Object" by RYAN THOMPSON
+0060.PAS      05-26-95  23:00  "Simple Collection Demo" by KEN BURROWS
+0061.PAS      05-26-95  23:01  "Dialog Decoder to handle 16k of Buttons" by PER-ERIC LARSSON
+0062.PAS      05-26-95  23:08  "Graphics in Turbo Vision's Text Mode" by STEFAN MICHEL
+0063.PAS      05-26-95  23:18  "Information Hiding" by JEAN D. ICHBIAH
+0064.PAS      05-26-95  23:19  "Using ListBoxes" by KEN BURROWS
+0065.PAS      05-26-95  23:20  "TV Popup Menu Bug" by PER-ERIC LARSSON
+0066.PAS      05-26-95  23:23  "Change Dialogs from Lists" by OLAF LUEDER
+0067.PAS      05-26-95  23:30  "Turbo Vision Startup Message" by DARREN OTGAAR
+0068.PAS      05-27-95  10:35  "Messaging Between Two Dialogs" by BORLAND
+0069.PAS      05-27-95  10:35  "Create a Listbox and Get a Double Click" by BORLAND
+0070.PAS      09-04-95  10:52  "T.V. List Box" by SWAG SUPPORT TEAM
+0071.PAS      09-04-95  10:52  "More On T.V. Listboxes" by SWAG SUPPORT TEAM
+0072.PAS      09-04-95  10:53  "T.V. Right Mouse" by SWAG SUPPORT TEAM
+0073.PAS      09-04-95  10:55  "T.V. Color Manipulation" by SWAG SUPPORT TEAM
+0074.PAS      09-04-95  10:56  "T.V. Rubberband Example" by SWAG SUPPORT TEAM
+0075.PAS      09-04-95  11:01  "Sorting using tCollection" by MIKE SORTZ
+0076.PAS      11-22-95  15:51  "Turbo Vision" by SWAG SUPPORT TEAM
+0077.PAS      11-22-95  15:51  "Different Colors in Turbo Vision" by SWAG SUPPORT TEAM
+0078.PAS      11-22-95  15:51  "Two TVision dialogs on the screen" by SWAG SUPPORT TEAM
+0079.PAS      02-21-96  21:04  "Execute a Popup Menu at ?" by KAI BOELLERT
+0080.PAS      05-31-96  09:16  "Use Color Text Screens in T.V." by SCOTT F. EARNEST
+0081.PAS      05-31-96  09:16  "T.V. Progress Bar" by DAVID VAN DRIESSCHE
+0082.PAS      05-31-96  09:17  "File Viewer Object for Text Files" by BORLAND
+0083.PAS      05-30-97  18:17  "A T.V. Progress box example" by BRAD PRENDERGAST
+0084.PAS      05-30-97  18:17  "Listbox example for TurboVision" by BRAD PRENDERGAST
+0085.PAS      05-30-97  18:17  "A NICE collection of T.V. objects" by TOM WELLIGE
+0086.PAS      08-30-97  10:08  "OOP Graphical objects for TurboVision" by TOM WELLIGE
+0087.PAS      08-30-97  10:08  "OOP percent bar TurboVision" by TOM WELLIGE
+0088.PAS      08-30-97  10:08  "A collection of new views for TurboVisio" by TOM WELLIGE
+0089.PAS      08-30-97  10:08  "A Movie view object for TurboVision" by TOM WELLIGE
+0090.PAS      08-30-97  10:08  "OOP Message objects for TurboVision" by TOM WELLIGE
+0091.PAS      08-30-97  10:08  "OOP Extended Keyboard Events for TurboVi" by TOM WELLIGE
+0092.PAS      01-02-98  07:35  "Dbase Program" by SHMATIKOV V.

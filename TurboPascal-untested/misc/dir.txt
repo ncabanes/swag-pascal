@@ -1,0 +1,209 @@
+SWAG Title: ANYTHING NOT OTHERWISE CLASSIFIED
+0001.PAS      05-28-93  13:51  "Verify ISBN Numbers" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:51  "CPAS-OBJ.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:51  "DBASE4.PRG" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:51  "FLI File player" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:51  "GLOBALS.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:51  "Hebrew Text Processor" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:51  "Doing a LONGJUMP in memory" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:51  "MAKEDATA.PAS" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:51  "MAZE.PAS" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:51  "MISCFUNC.PAS" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:51  "Yet Another Reboot" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:51  "Another Reboot" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:51  "Rebooting the CPU" by SWAG SUPPORT TEAM
+0015.PAS      05-28-93  13:51  "SUNDRY.PAS" by SWAG SUPPORT TEAM
+0016.PAS      05-28-93  13:51  "TPASM.PAS" by SWAG SUPPORT TEAM
+0017.PAS      05-28-93  13:51  "ZTRAS.PAS" by SWAG SUPPORT TEAM
+0018.PAS      05-10-93  14:24  "Compiler Directives" by COLIN BUCKLEY
+0019.PAS      05-31-93  08:05  "RANDOM NUMBER GENERATOR" by FLOOR NAAIJKENS
+0020.PAS      06-22-93  09:24  "Hi Resolution Timer" by SWAG SUPPORT TEAM
+0021.PAS      07-16-93  06:11  "A source code mangler" by SWAG SUPPORT TEAM
+0022.PAS      07-16-93  06:13  "Randmom Number Function" by KENT BRIGGS
+0023.PAS      08-18-93  12:20  "Get the active code page" by JOSE ALMEIDA
+0024.PAS      08-18-93  12:27  "Intra-App Comm Area" by JOSE ALMEIDA
+0025.PAS      08-18-93  12:28  "Get Print Screen Status" by JOSE ALMEIDA
+0026.PAS      08-27-93  20:00  "Finding Anagrams" by SWAG SUPPORT TEAM
+0027.PAS      08-27-93  20:01  "Fast Anagrams" by MARK OUELLET
+0028.PAS      08-27-93  20:35  "dBase II File Structure" by DAVID JURGENS
+0029.PAS      08-27-93  20:38  "Device Driver in TP" by GORDON TACKETT
+0030.PAS      08-27-93  20:38  "Another Device in TP" by D.J. MURDOCK
+0031.PAS      08-27-93  20:55  "File at end of EXE" by JACK MOFFITT
+0032.PAS      08-27-93  20:55  "Modify EXE constants" by GABE KRUPA
+0033.PAS      08-27-93  21:01  "True EXE Size" by STEVE ROGERS
+0034.PAS      08-27-93  21:23  "Detect Float Error" by GERD KORTEMEYER
+0035.PAS      08-27-93  21:40  "Simple Multi-Tasker" by SEAN PALMER
+0036.PAS      08-27-93  22:12  "Writing To EXE File" by DAVID DOTY
+0037.PAS      09-26-93  09:01  "Produce DOS Error Message" by MARTIN RICHARDSON
+0038.PAS      09-26-93  09:17  "Get GREATER of Integers" by MARTIN RICHARDSON
+0039.PAS      09-26-93  09:17  "Get SMALLER of Integers" by MARTIN RICHARDSON
+0040.PAS      09-26-93  09:24  "Generate RANDOM Number" by MARTIN RICHARDSON
+0041.PAS      09-26-93  09:25  "Convert REAL to INTEGER" by MARTIN RICHARDSON
+0042.PAS      09-26-93  09:28  "Convert STRING to INTEGER" by MARTIN RICHARDSON
+0043.PAS      09-26-93  10:51  "Queit Noisy programs" by DAVID DANIEL ANDERSON
+0044.PAS      11-02-93  04:49  "ARRAY Pointer in ASM" by MAYNARD PHILBROOK
+0045.PAS      11-02-93  04:55  "Maze Generator" by RANDALL ELTON DING
+0046.PAS      11-02-93  05:35  "Trapping Runtime Errors" by JON JASIUNAS
+0047.PAS      11-02-93  05:37  "Modify EXE Constants" by JON JASIUNAS
+0048.PAS      11-02-93  05:39  "Export data from OBJ file" by WILBERT VAN LEIJEN
+0049.PAS      11-02-93  05:50  "HACKING in Pascal" by KAI ROHRBACHER
+0050.PAS      11-02-93  06:02  "BREAK and CONTINUE" by MARTIN LARSEN
+0051.PAS      11-02-93  10:29  "OPTIMIZE.PAS" by BOB SWART
+0052.PAS      11-02-93  10:32  "Dealing Poker" by ANDY MCFARLAND
+0053.PAS      11-02-93  10:33  "POKER Again" by SEAN PALMER
+0054.PAS      11-02-93  10:33  "POKER Again and Again" by LEE BARKER
+0055.PAS      11-02-93  18:41  "ROMAN numbers" by VARIOUS AUTHORS
+0056.PAS      11-21-93  09:41  "MAXMIN Bytes/Integers" by SWAG SUPPORT TEAM
+0057.PAS      11-21-93  09:49  "UUENCODE" by BOB SWART
+0058.PAS      11-21-93  09:50  "UUDCODE.PAS" by BOB SWART
+0059.PAS      11-26-93  16:59  "UU Encode files" by PAUL ROBINSON
+0060.PAS      11-26-93  17:11  "Trap Floating point Errs" by SWAG SUPPORT GROUP
+0061.PAS      11-26-93  17:37  "Pick Unit; Select Choice" by SWAG SUPPORT GROUP
+0062.PAS      11-26-93  17:39  "RANDOM Numbers" by SWAG SUPPORT GROUP
+0063.PAS      11-26-93  17:48  "TRAP8087 Errors" by STEVE SCHAFER
+0064.PAS      01-27-94  11:53  "ASM Calls and Jumps" by HELGE HELGESEN
+0065.PAS      01-27-94  11:56  "BP Bug" by ANDRES CVITKOVICH
+0066.PAS      01-27-94  11:57  "dBase Manipulation" by BILL HIMMELSTOSS
+0067.PAS      01-27-94  11:59  "Hexagonal Grid Info" by HERB BROWN
+0068.PAS      01-27-94  12:02  "EXE to binary Converter" by GREG VIGNEAULT
+0069.PAS      01-27-94  12:15  "Do Nothing!" by MARTIN RICHARDSON
+0070.PAS      01-27-94  12:16  "Do Nothing Again!" by PHIL NICKELL
+0071.PAS      01-27-94  12:16  "OP Pick Lists" by ALTON PRILLAMAN
+0072.PAS      01-27-94  12:17  "Program Origin" by DJ MURDOCH
+0073.PAS      01-27-94  12:19  "Eight Queens" by PIGEON STEVEN
+0074.PAS      01-27-94  12:23  "TOT Info" by TONY NUGENT
+0075.PAS      01-27-94  12:24  "UUDecode!" by PETER BEEFTINK
+0076.PAS      01-27-94  12:24  "UUEncode!" by PETER BEEFTINK
+0077.PAS      01-27-94  13:33  "String Timing Demo" by GREG ESTABROOKS
+0078.PAS      01-27-94  13:34  "Misc Utilities" by GREG ESTABROOKS
+0079.PAS      01-27-94  17:29  "Loan Amortization Tables" by GAYLE DAVIS
+0080.PAS      01-27-94  17:33  "English Number Strings" by GAYLE DAVIS
+0081.PAS      01-27-94  17:36  "Info on DBASE3 Files" by SWAG SUPPORT TEAM
+0082.PAS      01-27-94  17:36  "Spell a Number" by MIKE COPELAND
+0083.PAS      01-27-94  17:36  "Checkbook Number" by WAYNE MOSES
+0084.PAS      01-28-94  08:55  "Simulate Phone Ringing" by BJORN FELTEN
+0085.PAS      02-03-94  09:17  "Write BANNERS" by SCOTT R. HOUCK
+0086.PAS      02-03-94  09:59  "Accessing DBASE3 Files" by SWAG SUPPORT TEAM
+0087.PAS      02-03-94  10:57  "Fuzzy logic unit (German)" by WIM VAN DER VEGT
+0088.PAS      02-03-94  16:12  "Min/Max Words or Integers" by PHIL NICKELL
+0089.PAS      02-03-94  16:15  "Min/Max Longs in ASM" by PHIL NICKELL
+0090.PAS      02-15-94  07:54  "OOP Paradox Interface" by BRIAN CORLL
+0091.PAS      05-25-94  08:01  "Going International" by BJ™RN FELTEN
+0092.PAS      05-25-94  08:01  "Credit Card check" by CAMERON CLARK
+0093.PAS      05-25-94  08:02  "Various Cool Routines" by CHRIS LAUTENBACH
+0094.PAS      05-25-94  08:15  "hall of fame - my try" by RODNEY JOHNSON
+0095.PAS      05-25-94  08:21  "Registration Key Routine" by LARS P. FRIEND
+0096.PAS      05-26-94  06:19  "PASCAL PASSWORD" by MATT SOTTILE
+0097.PAS      05-26-94  06:19  "Scrolling or page down" by JAMIE RUTHERFORD
+0098.PAS      05-26-94  10:52  "Amortization Routine" by RICHARD ODOM
+0099.PAS      05-26-94  11:04  "General Library Routines" by SWAG SUPPORT TEAM
+0100.PAS      08-24-94  13:23  "**APPENDING EXE**" by IAN LIN
+0101.PAS      08-24-94  13:27  "Procedure Calls" by FRANK DIACHEYSN
+0102.PAS      08-24-94  13:28  "Config File" by J.P KARRELL
+0103.PAS      08-24-94  13:30  "DBase III Routines" by WIM VAN DER VEGT
+0104.PAS      08-24-94  13:45  "Frequency Analyzer" by STEVE ROGERS
+0105.PAS      08-24-94  13:48  "Re  Anti-debugging...??" by KLAUS WIEGAND
+0106.PAS      08-24-94  13:51  "'C' Printf" by ROBBIE FLYNN
+0107.PAS      08-24-94  13:55  "Hand Scanner Code" by ROLAND SKINNER
+0108.PAS      08-24-94  17:51  "Smooth Thermobar display" by WIM VAN DER VEGT
+0109.PAS      08-25-94  09:05  "Using C And Pascal - Link" by DAVE BELL
+0110.PAS      08-25-94  09:07  "DOS + WorkGroups 3.11..." by GREG VIGNEAULT
+0111.PAS      08-25-94  09:13  "MS Excel XLOPER Structure" by MBOUSEK@INTEL9.INTEL.COM
+0112.PAS      11-26-94  05:07  "Patch TP's Runtime Library" by GEORGE KALEMANIS
+0113.PAS      11-26-94  05:07  "Determine is program is being debugged!" by WILLEM JOOSTEN
+0114.PAS      11-26-94  05:07  "Trapping The Debugger 1" by JORT BLOEM
+0115.PAS      11-26-94  05:07  "Function Queues" by JORT BLOEM
+0116.PAS      11-26-94  05:07  "Detecting $G+ Compiler Directive" by ALFONS HOOGERVORST
+0117.PAS      11-26-94  05:07  "Saving Help Contexts" by ANGELO RODRIGUES
+0118.PAS      11-26-94  05:07  "Detecting Debug 2" by ANDREW EIGUS
+0119.PAS      11-26-94  05:07  "Compilation Dates - Preprocessor" by MARK LEWIS
+0120.PAS      11-26-94  05:07  "String Function Returns" by ANDREW BROUGHTON
+0121.PAS      11-26-94  05:07  "How to COPYRIGHT Software" by SWAG SUPPORT GROUP
+0122.PAS      11-26-94  05:07  "Fields in BASM" by CHARLIE CALVERT
+0123.PAS      11-26-94  05:07  "Is the CPU doing something?" by MATS DAHLIN
+0124.PAS      02-28-95  10:00  "Extract File Descriptions from BBS files" by EDDY THILLEMAN
+0125.PAS      02-28-95  10:00  "The INFAMOUS Pentium Bug" by DJ MURDOCH
+0126.PAS      02-28-95  10:00  "How to pass functions as parameters" by SWAG SUPPORT TEAM
+0127.PAS      02-28-95  10:01  "Knights Tour" by RUSS JONES
+0128.PAS      02-28-95  10:09  "Percentage Status Bar" by CJ CLIFFE
+0129.PAS      02-28-95  10:10  "Example of how to read Verison 3.x SWAG" by GAYLE DAVIS
+0130.PAS      02-28-95  10:11  "UUencoding" by RAPHAEL VANNEY
+0131.PAS      05-26-95  22:57  "32-Bit ASM" by ALEX CHALFIN
+0132.PAS      05-26-95  22:58  "Array in BASM" by DUNCAN MURDOCH
+0133.PAS      05-26-95  22:58  "BASM Bug" by MAYNARD PHILBROOK
+0134.PAS      05-26-95  22:58  "BASM Value Returns" by ANDERS LEE
+0135.PAS      05-26-95  22:58  "Using Ofs in BASM" by IAN LIN
+0136.PAS      05-26-95  22:58  "Yet more 32-Bit ASM Programming" by HORST KRAEMER
+0137.PAS      05-26-95  22:58  "Various Useful ASM Routines" by JOHN STEPHENSON
+0138.PAS      05-26-95  22:59  "Pascal Book List" by MIKE MCEACHRAN
+0139.PAS      05-26-95  23:03  "Reformat Your Pascal Code!" by CAMERON CLARK
+0140.PAS      05-26-95  23:06  "FLC File Format" by DARRYL LUFF
+0141.PAS      05-26-95  23:07  "Finding Pentium FDiv Error" by WILLIAM G. S. BROWN
+0142.PAS      05-26-95  23:07  "General Useful Routines" by WILLIAM BARATH
+0143.PAS      05-26-95  23:19  "Writing Lotus .WKS Files" by HARTKAMP@MAIL.RZ.UNI-DUESSELDORF.DE
+0144.PAS      05-26-95  23:19  "Maze Generator I" by BJ™RN FELTEN
+0145.PAS      05-26-95  23:20  "Maze Generator II" by MATTHEW MASTRACCI
+0146.PAS      05-26-95  23:20  "Lou's Maze Algorithm" by LOU DUCHEZ
+0147.PAS      05-26-95  23:20  "Pentium FDIV Errors" by BOB SWART
+0148.PAS      05-26-95  23:21  "Multitasking" by DAVE JARVIS
+0149.PAS      05-26-95  23:21  "New Bp 7.0 Bugs" by DJ MURDOCH
+0150.PAS      05-26-95  23:23  "Code Optimization Techniques" by ERIK TURNER
+0151.PAS      05-26-95  23:24  "Pentium Floating Point Division Bug Code" by DJ MURDOCH
+0152.PAS      05-26-95  23:27  "32-Bit Registers" by DUNCAN MURDOCH
+0153.PAS      05-26-95  23:29  "Multitasking Unit" by MIKE WAROT
+0154.PAS      05-26-95  23:32  "Calculating Windchill" by PETER KOLDING & KERRY SOKALSKY
+0155.PAS      05-27-95  10:33  "BASM Min/Max" by SWAG SUPPORT TEAM
+0156.PAS      05-27-95  10:37  "National language support" by FERNAND LEMOINE
+0157.PAS      09-04-95  10:29  "Travling Salesman Problem" by PIERRE TOURIGNY
+0158.PAS      09-04-95  10:51  "INI File Handler" by KIM GREVE
+0159.PAS      09-04-95  10:53  "approx phase of the moon" by TIM MIDDLETON
+0160.PAS      09-04-95  10:57  "AI Game Playing" by BRAD ZAVITSKY
+0161.PAS      09-04-95  11:02  "ANTI-Virus detection" by R. LOERAKKER
+0162.PAS      09-04-95  11:06  "Reading DOOM WAD Files" by DAVID O'SHEA
+0163.PAS      11-22-95  13:28  "Jumble puzzle solver" by CAMERON CLARK
+0164.PAS      11-22-95  13:29  "Percentage Bar" by BRAD ZAVITSKY
+0165.PAS      11-22-95  13:32  "Source to tickertape" by CHRIS AUSTIN
+0166.PAS      11-25-95  09:26  "Wolf3D mapedit" by BILL KIRBY
+0167.PAS      02-21-96  21:03  "Re: Registration Key unit" by TOM MOORE
+0168.PAS      02-21-96  21:04  "TURBO PONG GAME" by GLENN REIFF
+0169.PAS      02-21-96  21:04  "EJect a CD-ROM" by TIMO SALMI
+0170.PAS      02-21-96  21:04  "Debugger Trap" by KARL HEINZ KREMER
+0171.PAS      05-31-96  09:16  "Create BBS Bulletins" by ROBERT L. EDWARDS
+0173.PAS      05-31-96  09:16  "Inbound scanning utility" by JONAS MAEBE
+0174.PAS      05-31-96  09:16  "INI files - Revised" by BRAD ZAVITSKY
+0175.PAS      05-31-96  09:16  "Creating a Log Diary" by HARRY MARX
+0176.PAS      05-31-96  09:16  "Percentage Indicator" by IGOR VASILCHIKOV
+0177.PAS      05-31-96  09:16  "Another Percentage bar" by NIKOLAJ PAGH
+0178.PAS      05-31-96  09:17  "Create a Character Pyramid" by CLIF PENN
+0179.PAS      05-31-96  09:17  "Percentage Status Bar" by CHRIS EVANS
+0180.PAS      05-31-96  09:17  "SWAG File Header Lister" by VALERY VOTINTSEV
+0181.PAS      05-31-96  09:17  "BBS Tagline Manager" by MIKE COPELAND
+0182.PAS      05-31-96  09:17  "Earth Invaders Game" by SCOTT TUNSTALL
+0183.PAS      05-31-96  09:17  "Racer Simulation" by SCOTT TUNSTALL
+0184.PAS      05-31-96  09:17  "Lawnmower Simulation Game" by SCOTT TUNSTALL
+0185.PAS      05-31-96  09:17  "Helpful Procedures and Functions" by SUNE MARCHER
+0186.PAS      08-30-96  09:35  "Convert C Header to Pascal" by PETER SAWATZKI
+0187.PAS      08-30-96  09:35  "How to read a Lotus 123 file" by PEDRO EISMAN
+0188.PAS      08-30-96  09:36  "Space Lords 7 Video Game - Part #2" by SCOTT TUNSTALL
+0189.PAS      08-30-96  09:36  "Space Lords 7 Video Game - Great Graphic" by SCOTT TUNSTALL
+0190.PAS      11-29-96  08:17  "Showing hints in a program" by GEOFF BASSETT
+0191.PAS      11-29-96  08:17  "Very Quick Loan Amortizaton" by GLENN GROTZINGER
+0192.PAS      11-29-96  08:17  "Word Puzzle program for TP" by ANDY KURNIA
+0193.PAS      11-29-96  08:17  "Pascal code for the Skyline problem" by SVETLANA KRYUKOVA
+0194.PAS      11-29-96  08:17  "Card Game of Spite & Malice" by BENJAMIN ARNOLDY
+0195.PAS      11-29-96  08:17  "Progress Bar for TechnoJock Toolkit" by SERGEY PEREVOZNIK
+0196.PAS      11-29-96  08:17  "Stupid Aliens Game" by SCOTT TUNSTALL
+0197.PAS      03-04-97  13:18  "GIF Comments Remover" by ALEKSANDAR DLABAC
+0198.PAS      03-04-97  13:18  "Number to Letters Converter" by ARIEL PABLO KLEIN
+0199.PAS      03-04-97  13:18  "Variety of Useful Routines" by TOBIN FRICKE
+0200.PAS      05-30-97  18:17  "The Game of Frogger" by JONAS MAEBE
+0201.PAS      05-30-97  18:17  "Doing the Macarena" by JONAS EMIL M. ENRIQUEZ
+0202.PAS      08-30-97  10:09  "TP example to Change Windows Wallpaper" by SWAG SUPPORT TEAM
+0203.PAS      08-30-97  10:09  "BASM Write Time Unit" by ROBERT AH PRINS
+0204.PAS      08-30-97  10:09  "Various Useful Routines" by ZAK SMITH
+0205.PAS      08-30-97  10:09  "Random Dice roller" by TODD JACOBS
+0206.PAS      01-02-98  07:34  "A Nibble game example" by RODRIGO M. SILVEIRA
+0207.PAS      01-02-98  07:34  "DBase file management" by DAVID HOOPER
+0208.PAS      01-02-98  07:34  "Need to throw dices?" by PASI KALLINEN
+0209.PAS      01-02-98  07:34  "TP6-7 example of Eliza" by SWAG SUPPORT TEAM
+0210.PAS      01-02-98  07:35  "RPG Thing for SWAG" by RAMON RODRIGO

@@ -1,0 +1,289 @@
+SWAG Title: EGA/VGA ROUTINES
+0001.PAS      05-28-93  13:39  "Proportional Fade" by REYNIR STEFANSSON
+0002.PAS      05-28-93  13:39  "Convert BGI to EXE" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:39  "EGA/VGA Bitmap FONTS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:39  "Detection of EGA/VGA Card" by EDWIN CALIMBO
+0005.PAS      05-28-93  13:39  "Drawing a Circle" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:39  "Another Fader Program" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:39  "Text fading on a VGA" by SEAN PALMER
+0008.PAS      05-28-93  13:39  "Dealing with EGA Palet" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:39  "Another Good Fader" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:39  "Yet another Fader" by EIRIK MILCH PEDERESEN
+0011.PAS      05-28-93  13:39  "FAST RGB on EGA/VGA" by GRADY WERNER
+0012.PAS      05-28-93  13:39  "Get current Videomode" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:39  "Another text fader" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:39  "GREAT text Fader" by JOHN WONG
+0015.PAS      05-28-93  13:39  "Initialize BGI Interface" by SWAG SUPPORT TEAM
+0016.PAS      05-28-93  13:39  "Get/Put Image functions" by SWAG SUPPORT TEAM
+0017.PAS      05-28-93  13:39  "Optimized line drawing" by SWAG SUPPORT TEAM
+0018.PAS      05-28-93  13:39  "MODEXY for VGA" by MICHAEL MROSOWSKI
+0019.PAS      05-28-93  13:39  "More MODEXY for VGA" by KAI ROHRBACHER
+0020.PAS      05-28-93  13:39  "Another NICE fader" by CHRIS BEISEL
+0021.PAS      05-28-93  13:39  "PALETTE tricks" by SWAG SUPPORT TEAM
+0022.PAS      05-28-93  13:39  "PUTPIXEL in Graphics" by MICHAEL NICOLAI
+0023.PAS      05-28-93  13:39  "READLNXY" by ERIC MILLER
+0024.PAS      05-28-93  13:39  "redefine Chars in EGA/VGA" by SWAG SUPPORT TEAM
+0025.PAS      05-28-93  13:39  "Setting Graphics Mode" by SWAG SUPPORT TEAM
+0026.PAS      05-28-93  13:39  "Another Set Graphics Mode" by SWAG SUPPORT TEAM
+0027.PAS      05-28-93  13:39  "Yet Another Set Graph" by SWAG SUPPORT TEAM
+0028.PAS      05-28-93  13:39  "Still Another Set Graph" by SWAG SUPPORT TEAM
+0029.PAS      05-28-93  13:39  "SETMODE5.PAS" by SWAG SUPPORT TEAM
+0030.PAS      05-28-93  13:39  "Set Graphics Mode #6" by SWAG SUPPORT TEAM
+0031.PAS      05-28-93  13:39  "Set Graphics Mode #7" by SWAG SUPPORT TEAM
+0032.PAS      05-28-93  13:39  "Set Graphics Page" by SWAG SUPPORT TEAM
+0033.PAS      05-28-93  13:39  "STARS1.PAS" by BERNIE PALLEK
+0034.PAS      05-28-93  13:39  "STARS2.PAS" by DANIEL SCHLENZIG
+0035.PAS      05-28-93  13:39  "Another Text Fader" by SWAG SUPPORT TEAM
+0036.PAS      05-28-93  13:39  "VGA Tricks" by SWAG SUPPORT TEAM
+0037.PAS      05-28-93  13:39  "TWEAKED.PAS" by SWAG SUPPORT TEAM
+0038.PAS      05-28-93  13:39  "Text Fader" by RON CZARNIK
+0039.PAS      05-28-93  13:39  "VGA-PTR.PAS" by SWAG SUPPORT TEAM
+0040.PAS      05-28-93  13:39  "VGA BGI & Detect" by ERIC MILLER
+0041.PAS      05-28-93  13:39  "VGA Detect #1" by SEAN PALMBER
+0042.PAS      05-28-93  13:39  "VGA Detect #2" by MICHAEL NICOLAI
+0043.PAS      05-28-93  13:39  "VGA Fonts from file" by SEAN PALMER
+0044.PAS      05-28-93  13:39  "VGA User Fonts" by SWAG SUPPORT TEAM
+0045.PAS      05-28-93  13:39  "VGA ClrScr #1" by SWAG SUPPORT TEAM
+0046.PAS      05-28-93  13:39  "VGA ClrScr #2" by SWAG SUPPORT TEAM
+0047.PAS      05-28-93  13:39  "VGA ClrScr #3" by SWAG SUPPORT TEAM
+0048.PAS      05-28-93  13:39  "MODE XY" by KAI ROHRBACHER
+0049.PAS      05-30-93  08:57  "Dispaly PIC,PCX,SCI,GIF" by SWAG SUPPORT TEAM
+0050.PAS      05-31-93  08:09  "256 VGA Colors" by WILBER VAN LEIJEN
+0051.PAS      06-08-93  08:27  "Scale Bitmats" by SEAN PALMER
+0052.PAS      07-16-93  06:06  "Access Video Bios Fonts" by SEAN PALMER
+0053.PAS      07-16-93  06:15  "Detect Presents of VGA" by SEAN PALMER
+0054.PAS      08-18-93  12:23  "Get the active font" by JOSE ALMEIDA
+0055.PAS      08-18-93  12:25  "Get one Char from Font" by JOSE ALMEIDA
+0056.PAS      08-27-93  20:52  "43/50 Line Mode" by GREG ESTABROOKS
+0057.PAS      08-27-93  21:51  "VGA Wait for retrace" by SWAG SUPPORT TEAM
+0058.PAS      08-27-93  22:09  "VGA COLOR Unit" by PETER WOKKE
+0059.PAS      09-26-93  08:44  "80x30 Text Mode Procedure" by MIGUEL MARTINEZ
+0060.PAS      10-28-93  11:40  "VGA TEXT Support" by WIM VAN DER VEGT
+0061.PAS      11-02-93  04:44  "50 Line mode" by SEAN PALMER
+0062.PAS      11-02-93  05:26  "Clear Screen in Mode $13" by WILLIAM MCBRINE
+0063.PAS      11-02-93  08:10  "VGA Lines" by ANDREW WOOLFSON
+0064.PAS      11-02-93  10:25  "Using ALL the memory" by JAMES SAITO
+0065.PAS      11-02-93  10:32  "PLASMA Fractal" by SWAG SUPPORT TEAM
+0066.PAS      11-02-93  10:35  "VGA Text Mode Demo" by KAI ROHRBACHER
+0067.PAS      11-02-93  10:35  "Setting Video Mode" by MARC BIR
+0068.PAS      11-02-93  12:14  "Set the VGA Palette" by JOHN BECK
+0069.PAS      11-21-93  09:25  "BitMap Scaler" by BERNIE PALLEK
+0070.PAS      11-26-93  17:39  "Wait for RETRACE" by SWAG SUPPORT GROUP
+0071.PAS      11-26-93  17:48  "VESA Video Support" by SWAG SUPPORT TEAM
+0072.PAS      11-26-93  17:48  "VIDEO MODE" by SWAG SUPPORT TEAM
+0073.PAS      01-27-94  11:52  "More Characters" by MAYNARD PHILBROOK
+0074.PAS      01-27-94  11:53  "Bitmap Display" by BO BENDTSEN
+0075.PAS      01-27-94  11:54  "Character Editor" by MICHAEL HOENIE
+0076.PAS      01-27-94  11:56  "Color Bars" by THORSTEN BARTH
+0077.PAS      01-27-94  11:56  "Retrace Correction" by JENS LARSSON
+0078.PAS      01-27-94  11:56  "Read VGA Dacs" by COLIN BUCKLEY
+0079.PAS      01-27-94  11:59  "EGA/VGA Bitplanes" by JAN DOGGEN
+0080.PAS      01-27-94  12:00  "Fast VGA Routines" by PEDER HERBORG
+0081.PAS      01-27-94  12:01  "Flames" by JOHN BECK
+0082.PAS      01-27-94  12:01  "Font Size" by DARRELL STEWART
+0083.PAS      01-27-94  12:02  "Fractals!" by MIGUEL MARTINEZ
+0084.PAS      01-27-94  12:07  "Screen Images" by FRANK HIRSCH
+0085.PAS      01-27-94  12:10  "Julia Set" by NORBERT IGL
+0086.PAS      01-27-94  12:10  "Julia Set" by ANDREW KEY
+0087.PAS      01-27-94  12:12  "Font Banks" by CHRIS PRIEDE
+0088.PAS      01-27-94  12:16  "Better Julia Set" by BAS VAN GAALEN
+0089.PAS      01-27-94  12:16  "Reding VGA Palettes" by COLIN BUCKLEY
+0090.PAS      01-27-94  12:21  "Bank Switching" by JOHN IOZIA
+0091.PAS      01-27-94  12:21  "Shading" by SHAUN ROOT
+0092.PAS      01-27-94  12:24  "Vesa Unit" by OLAF BARTELT
+0093.PAS      01-27-94  12:25  "Vesa Unit 2!" by SEAN PALMER
+0094.PAS      01-27-94  17:46  "High Intensity Background" by DARRYL FRIESEN
+0095.PAS      02-03-94  10:50  "Detect EGA/VGA in ASM" by SWAG SUPPORT TEAM
+0096.PAS      02-03-94  16:15  "Change EGA/VGA Font Char" by ROB PERELMAN
+0097.PAS      02-05-94  07:55  "Graphical Fades and Palet" by MIRKO HOLZER
+0098.PAS      02-05-94  07:57  "Screen Sweep" by BAS VAN GAALEN
+0099.PAS      02-09-94  11:49  "Video Addresses" by BAS VAN GAALEN
+0100.PAS      02-09-94  11:49  "Fade and Palette Routines" by WOLFGANG FRINK
+0101.PAS      02-18-94  07:00  "VGA/EGA Multi Line Modes" by BOB SWART
+0102.PAS      05-25-94  08:13  "VGA Text Fonts" by MIGUEL MARTINEX
+0103.PAS      05-25-94  08:22  "ROM Font in $13" by GREG ESTABROOKS
+0104.PAS      05-25-94  08:24  "25 & 50 Line mode in ASM" by IAN LIN
+0105.PAS      05-25-94  08:24  "VGA Detection" by GARETH BRAID
+0106.PAS      05-25-94  09:25  "Linked in BGI files" by WIM VAN DER VEGT
+0107.PAS      05-26-94  06:15  "Fading Unit" by FLORIAN ANSORGE
+0108.PAS      05-26-94  06:20  "28 EGA/VGA Rows" by ANDRES TARZIA
+0109.PAS      08-24-94  13:25  "Rotate 256x256 bitmap" by PAUL KAHLER
+0110.PAS      08-24-94  13:25  "High intensity background" by JOSE CAMPIONE
+0111.PAS      08-24-94  13:26  "Set Border (BASM)" by BAS VAN GAALEN
+0112.PAS      08-24-94  13:29  "COPPER2.PAS" by DAVID DAHL TEXTMODE COPPE
+0113.PAS      08-24-94  13:29  "Cube" by YVES HETZER
+0114.PAS      08-24-94  13:31  "Set Border Colors" by PATRICK ROBERTS
+0115.PAS      08-24-94  13:31  "Loading FONT file" by JASON KANE
+0116.PAS      08-24-94  13:36  "More Text Fading." by JUSTIN KING
+0117.PAS      08-24-94  13:36  "Text Screen Fading" by DAVE JARVIS
+0118.PAS      08-24-94  13:36  "Fader in textmode" by GRANT BEATTIE
+0119.PAS      08-24-94  13:40  "EGA/VGA Font Editor" by THIERRY DE LEEUW
+0120.PAS      08-24-94  13:49  "VGA Palette Code" by RODNEY JOHNSON
+0121.PAS      08-24-94  13:55  "Text in mode 13h?" by IAN LIN
+0122.PAS      08-24-94  13:57  "smooth text scroll" by BAS VAN GAALEN
+0123.PAS      08-24-94  13:57  "SNOW SCREEN SAVER" by NICK BATALAS
+0124.PAS      08-24-94  13:57  "Snow Screen Saver" by ERIC COOLMAN
+0125.PAS      08-24-94  14:00  "Fading Textscreen" by BAS VAN GAALEN
+0126.PAS      08-24-94  17:52  "32x32 Bitmap Tiles" by PAUL KAHLER
+0127.PAS      08-24-94  17:53  "Palette Fades/Transparent" by DAVID DAHL
+0128.PAS      08-24-94  17:53  "VGA-TEXT-FONT-EDITOR" by LEW ROMNEY
+0129.PAS      08-24-94  17:54  "Text Font Routines" by OLAF BARTELT
+0130.PAS      08-25-94  09:09  "Map Drawing" by JAMIE MORTIMER
+0131.PAS      08-25-94  09:11  "CatMull-Rom spline source" by LEON DEBOER
+0132.PAS      11-26-94  04:58  "New 28 Line Mode" by BAS VAN GAALEN
+0133.PAS      11-26-94  04:58  "3D Rendering in TeleGame SDK" by JOHN HOWARD
+0134.PAS      11-26-94  04:58  "640x480x16 Mode Programming" by ARNE DE.BRUIJN
+0135.PAS      11-26-94  04:58  "VESA point routine 640x480x16 Plot" by OLAF BARTELT
+0136.PAS      11-26-94  04:58  "New ANIVGA Fade - Vertical" by KAI ROHRBACHER
+0137.PAS      11-26-94  04:58  "New ANIVGA Fade - Horizontal" by KAI ROHRBACHER
+0138.PAS      11-26-94  04:58  "ANIVGA Fades - Fixes" by KAI ROHRBACHER
+0139.PAS      11-26-94  04:58  "ANIVGA Updates" by KAI ROHRBACHER
+0140.PAS      11-26-94  04:58  "BGI BMP Files" by RANDALL ELTON DING
+0141.PAS      11-26-94  04:58  "256 Color 320x200 BMP Loader" by SIMON R BOWSER
+0142.PAS      11-26-94  04:58  "Gravity in Graphics" by BAS VAN GAALEN
+0143.PAS      11-26-94  04:58  "Cheap Cross-fading Routine" by DAVID PROPER
+0144.PAS      11-26-94  04:58  "Checksums" by JOSE CAMPIONE
+0145.PAS      11-26-94  04:58  "Text Mode Copper Effects" by PEDER HERBORG
+0146.PAS      11-26-94  04:58  "Copper Bar Effects" by THILO WAGNER
+0147.PAS      11-26-94  04:58  "Rainbow Credits Scroll" by BAS VAN GAALEN
+0148.PAS      11-26-94  04:58  "Custom Font Creation" by CAMERON CLARK
+0149.PAS      11-26-94  04:58  "Quick 256 VGA Palette Cycling" by TAPIO AIJALA
+0150.PAS      11-26-94  04:58  "Rain Dance Mimic" by CAMERON CLARK
+0151.PAS      11-26-94  04:58  "Enhancement for Commanche Graphics" by SWAG SUPPORT TEAM
+0152.PAS      11-26-94  04:58  "Graphics Readln/ReadKey etc." by KANDA'JALEN EIRSIE
+0153.PAS      11-26-94  04:58  "Planar 16 Color Mode Plot" by JORT BLOEM
+0154.PAS      11-26-94  04:58  "Ellipse Routine" by TANI HOSOKAWA
+0155.PAS      11-26-94  04:58  "ANIVGA Horizontal Expand Fade" by JOHN HOWARD
+0156.PAS      11-26-94  04:58  "VGA Fonts for DPMI and REAL" by CHRIS LAUTENBACH
+0157.PAS      11-26-94  04:58  "FLI Player" by JOHN O'HARROW
+0158.PAS      11-26-94  04:58  "6 Common Text Modes" by CHRIS FORBIS
+0159.PAS      11-26-94  04:58  "Font Creation Program" by ANDREW EIGUS
+0160.PAS      11-26-94  04:58  "ET4000 video card" by BAS VAN GAALEN
+0161.PAS      11-26-94  04:58  "Bouncing VGA Trails" by CAMERON CLARK
+0162.PAS      11-26-94  04:58  "Mono PCX Viewer" by ANDREAS OESTLUND
+0163.PAS      11-26-94  04:58  "Hardware Scrolling Routines" by BAS VAN GAALEN
+0164.PAS      11-26-94  04:58  "enhanced cross-fade" by BAS VAN GAALEN
+0165.PAS      11-26-94  04:58  "Full 256/16 Colour Fading" by JANNES DROST
+0166.PAS      11-26-94  04:58  "Full VGA Fonts with Protected Mode" by CHRIS LAUTENBACH
+0167.PAS      11-26-94  04:59  "New Optimized UModeQ Unit" by ANTONIO SANCHEZ
+0168.PAS      11-26-94  04:59  "ANIVGA Wormhole" by JOHN HOWARD
+0169.PAS      11-26-94  04:59  "Neat Wavey VGA Scoller" by JEROEN BOUWENS
+0170.PAS      11-26-94  04:59  "Fast Polygon Fill" by ALEX CHALFIN
+0171.PAS      11-26-94  04:59  "3D Prism" by KRISJANIS GALE
+0172.PAS      11-26-94  04:59  "Raycasting (Re: Doom) Example" by KAI ROHRBACHER
+0173.PAS      11-26-94  04:59  "Set Secondary Page Position" by BAS VAN GAALEN
+0174.PAS      11-26-94  04:59  "Vector Ball Ellipse Splash" by CAMERON CLARK
+0175.PAS      11-26-94  04:59  "Tweaked 256x256x256 Chained" by BAS VAN GAALEN
+0176.PAS      11-26-94  04:59  "Texture Mapping" by ALEX CHALFIN
+0177.PAS      11-26-94  04:59  "Tseng ET4000 SVGA Modes" by BAS VAN GAALEN
+0178.PAS      11-26-94  04:59  "TSENG ET3000 And ET4000" by MAYNARD PHILBROOK
+0179.PAS      11-26-94  04:59  "360x256x256 Tweaked Mode" by MAURICE MARVIN
+0180.PAS      11-26-94  04:59  "VESA Putpixel" by JON ZARATE
+0181.PAS      11-26-94  04:59  "Mode 13 Fast Clear Screen" by SCOTT SEARLE
+0182.PAS      11-26-94  04:59  "Get the Video Page" by JOE WILCOX
+0183.PAS      11-26-94  04:59  "Improved Cross-Fade" by BAS VAN GAALEN
+0184.PAS      02-28-95  09:57  "Drip Drip Drip" by CHRISTOPHER CHANDRA
+0185.PAS      02-28-95  10:11  "Vesa and 320x200x256" by JOHN STEPHENSON
+0186.PAS      02-28-95  10:11  "RE: VESA BANK SWITCHING" by JEREMIAS RAIME
+0187.PAS      05-26-95  22:57  "3D Graphics Routines" by SCOTT STONE
+0188.PAS      05-26-95  22:57  "Starfield" by SCOTT STONE
+0189.PAS      05-26-95  22:57  "StarField 2!" by GRANT SMITH
+0190.PAS      05-26-95  22:58  "VESA Info" by PEDRO MIGUEL BORGES
+0191.PAS      05-26-95  22:59  "Vesa Unit" by JOHN STEPHENSON
+0192.PAS      05-26-95  23:00  "Cool Fonts" by WILLIAM BARATH
+0193.PAS      05-26-95  23:00  "Nice Copper Bars" by AKI TIKKALA
+0194.PAS      05-26-95  23:01  "Doom 3D Engine Techniques" by JOSH WHITING
+0195.PAS      05-26-95  23:01  "Dripping Screen!" by CHRISTOPHER CHANDRA
+0196.PAS      05-26-95  23:02  "Dumping a Mode 13h Screen to PCX" by KEVIN LUCK
+0197.PAS      05-26-95  23:02  "Triple Buffering" by MARCIN BORKOWSKI
+0198.PAS      05-26-95  23:03  "Fast Sierpinski Triangle" by JEFF MOLOFEE
+0199.PAS      05-26-95  23:03  "VESA Bank Switching in 640x480x256" by MARNIX TIMMERMANS
+0200.PAS      05-26-95  23:05  "Fast Pure ASM Line Routine in 320x200" by JEROEN BOUWENS
+0201.PAS      05-26-95  23:05  "Nice Light Vector with Box" by ALEX CHALFIN
+0202.PAS      05-26-95  23:06  "Fire Code" by ALEX CHALFIN
+0203.PAS      05-26-95  23:06  "Fire Code II" by RICK HAINES
+0204.PAS      05-26-95  23:06  "Fire Algorithm Explained" by CLAUDIO TAGLIOLA
+0205.PAS      05-26-95  23:06  "Fire Code III" by EVAN JONES
+0206.PAS      05-26-95  23:06  "Fractals" by DAVE JARVIS
+0207.PAS      05-26-95  23:07  "->> Unisys LZH/GIF Patent Explained <<-" by RYAN THOMPSON
+0208.PAS      05-26-95  23:07  "GIF Viewer up to 640x480x256" by MIKA STENBERG
+0209.PAS      05-26-95  23:08  "Detect" by ROBERT PALMQVIST
+0210.PAS      05-26-95  23:08  "String Entry in Graphics Mode" by MICHAEL SLACK
+0211.PAS      05-26-95  23:08  "Hardware Scrolling" by ARNE DE.BRUIJN
+0212.PAS      05-26-95  23:20  "Morphing!" by NIK DRONET
+0213.PAS      05-26-95  23:22  "Fire Code V" by HILKO BENGEN
+0214.PAS      05-26-95  23:22  "Fire Code VI" by JERE SANISALO
+0215.PAS      05-26-95  23:22  "SVGA GIF Displayer with FULL VESA UNIT!" by LIONEL CORDESSES
+0216.PAS      05-26-95  23:22  "Yet More Stars!" by JUSTIN GREER
+0217.PAS      05-26-95  23:22  "Direct screen writes in SVGA Tseng ET400" by BAS VAN GAALEN
+0218.PAS      05-26-95  23:22  "Drawing Objects in Mode 13h" by DIRK WESSELS
+0219.PAS      05-26-95  23:23  "Determine if VGA Availabel" by JOHN HOWARD
+0220.PAS      05-26-95  23:23  "Page Swapping" by MINTO GEORGE
+0221.PAS      05-26-95  23:24  "Phong Shading Algorithm" by JEROEN BOUWENS
+0222.PAS      05-26-95  23:24  "Bitplanes in Mode 12h" by ARNE DE.BRUIJN
+0223.PAS      05-26-95  23:24  "100% Pascal Plasma" by STEVEN MCLEOD
+0224.PAS      05-26-95  23:27  "Pouring Sand Effect" by MARCIN BORKOWSKI
+0225.PAS      05-26-95  23:27  "True VESA Page Switching" by JASON RENNIE
+0226.PAS      05-26-95  23:27  "Shearing" by JOHN STEPHENSON
+0227.PAS      05-26-95  23:28  "Flag Splines" by BAS VAN GAALEN
+0228.PAS      05-26-95  23:28  "Sphere Mapping in 3D" by WIL BARATH
+0229.PAS      05-26-95  23:28  "Fast 3-Point Splines" by WIL BARATH
+0230.PAS      05-26-95  23:29  "A Plethora of VESA Information" by MYLES STROUS
+0231.PAS      05-26-95  23:29  "Texture Mapping" by ALEX CHALFIN & KRIS VERBEECK
+0232.PAS      05-26-95  23:30  "Text-Mapped Vector Cube" by ALEX CHALFIN
+0233.PAS      05-26-95  23:30  "Mode 12h Unit" by WIL BARATH
+0234.PAS      05-26-95  23:30  "Reading TIFF Files" by ALAN B.
+0235.PAS      05-26-95  23:30  "360x256x256 Graphics Mode" by KAI ROHRBACHER
+0236.PAS      05-26-95  23:31  "Vesa Initialization" by JEREMIAS RAIME
+0237.PAS      05-26-95  23:32  "Working VESA Code for All Modes" by KERRY SOKALSKY
+0238.PAS      05-26-95  23:32  "Some VESA BIOS Stuff" by DOYLE PATRICK
+0239.PAS      05-26-95  23:32  "Voxel Demo with Text Overlay" by MIKI LANDEKIC
+0240.PAS      05-26-95  23:33  "Multicolor Wormhole Dance!" by WIL BARATH
+0241.PAS      05-27-95  10:38  "VGA lines" by EYAL DORON
+0243.PAS      09-04-95  10:44  "Re: 256 Colours" by ZIV KATZIR
+0244.PAS      09-04-95  10:48  "Exploding Box - BGI Routines" by MICHAEL DAY
+0245.PAS      09-04-95  10:50  "Fire Code IV" by IAN LIN
+0246.PAS      09-04-95  10:53  "Convert PCX file to PASCAL images" by BOJAN LANDEKIC
+0247.PAS      09-04-95  10:54  "Game Sprites" by CAMERON CLARK
+0248.PAS      09-04-95  10:54  "New VoxelLand" by ALEX CHALFIN
+0249.PAS      09-04-95  10:55  "Convert PCX file to PASCAL images" by BOJAN LANDEKIC
+0250.PAS      09-04-95  10:55  "Another Flame Program" by IAN LIN
+0251.PAS      09-04-95  10:57  "Enhanced Sinus Scroll" by BAS VAN GAALEN
+0252.PAS      09-04-95  10:57  "Split Screen VGA" by MARIO VAN DEN ANCKER
+0253.PAS      09-04-95  11:01  "VGA Scroller" by JOSE ANTONIO NODA
+0254.PAS      09-04-95  11:01  "132 Column VGA Mode" by ZBIGNIEW SZUSZKIEWICZ
+0255.PAS      09-04-95  11:02  "Watery Ripples" by MORTEN HANSEN
+0256.PAS      09-04-95  11:55  "Fade Procedures" by BOJAN LANDEKIC
+0257.PAS      11-22-95  13:27  "Another Text Fader" by SAM VILAIN
+0258.PAS      11-22-95  13:29  "EGA VGA PALETTE" by LUKASZ GRABUN
+0259.PAS      11-22-95  13:32  "Changing Text Fonts" by DANNY SWETT
+0260.PAS      11-22-95  13:33  "Protected-Mode (DPMI) Vesa Info" by RYSZARD SZKLENNIK
+0261.PAS      11-22-95  15:50  "Run Length TGA Viewer" by PAT O'MALLEY
+0262.PAS      02-21-96  21:03  "BASM Display String with font" by J.A.M. DE GREEF
+0263.PAS      02-21-96  21:04  "RE: Loading PCX Files" by ALLAN BANG ANDERSEN
+0264.PAS      02-21-96  21:04  "Phong-shading" by JEROEN BOUWENS
+0265.PAS      02-21-96  21:04  "Mode-13 Variable Width font" by EDDY JANSSON
+0266.PAS      02-21-96  21:04  "Svga stuff" by DAVID HENNINGSSON
+0267.PAS      02-21-96  21:04  "Show info on Targa file" by GARY C. KING
+0268.PAS      02-21-96  21:04  "VGA MODE 12 Code" by TJAKOBS@MSWE.DNET.MS.PHIL
+0269.PAS      02-21-96  21:04  "Re: Mode 80x50 or whatever" by JIM LEONARD
+0270.PAS      05-31-96  09:17  "Saving the EGA/VGA Font" by LDEBOER@IBM.NET
+0271.PAS      05-31-96  09:17  "copy 640x480 VGA color screen to file" by BREN SESSIONS
+0272.PAS      05-31-96  09:17  "Vesa Driver Interface" by PEA
+0273.PAS      05-31-96  09:17  "Force Different Video Modes" by SCOTT TUNSTALL
+0274.PAS      08-30-96  09:35  "Re: FADING CODE" by MIKE PHILLIPS
+0275.PAS      08-30-96  09:35  "Detect the DAC values" by ARNE DE BRUIJN
+0277.PAS      08-30-96  09:36  "Full featured VESA Unit" by LIONEL CORDESSES
+0278.PAS      11-29-96  08:17  "Display Mono Bitmap in EGA/VGA text mode" by SWAG SUPPORT TEAM
+0279.PAS      11-29-96  08:17  "Mini VGA Graphics Mode unit" by NELSON CHU
+0280.PAS      11-29-96  08:17  "VGA Textfont & Color changer" by NILTON CASTILLO ALBARRACIN
+0281.PAS      11-29-96  08:17  "Another GetMem > 64k" by GERHARD PIRAN
+0283.PAS      05-30-97  18:17  "Gotoxy in Assembler" by SALVATORE MESCHINI
+0284.PAS      05-30-97  18:17  "Neat Graphics unit to emulate WIN95" by TOMMY ANDERSON
+0285.PAS      05-30-97  18:17  "EGA/VGA Mode unit" by ANTON ZHUCHKOV
+0286.PAS      08-30-97  10:08  "fast ellips-drawing procedure" by WOUTER 'TEUS' VAN REEVEN
+0287.PAS      08-30-97  10:08  "A small graph unit using BGI" by EUGENEWA@MS8HNET.NET
+0288.PAS      01-02-98  07:34  "Fast implementation of digit plotting on" by YUVAL MELAMED
+0289.PAS      01-02-98  07:34  "VGA ModeX graphics demo" by SWAG SUPPORT TEAM
+0290.PAS      01-02-98  07:35  "Complete MCGA Unit" by STEFAN OHRHALLINGER
+0291.PAS      01-02-98  07:35  "LCD-style Fonts for the BGI" by PINO NAVATO

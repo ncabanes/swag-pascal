@@ -1,0 +1,44 @@
+SWAG Title: TIMER/RESOLUTION ROUTINES
+0001.PAS      05-28-93  14:09  "Millisecond Timer Unit" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  14:09  "TCTIMER.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  14:09  "Time Code Segments" by D.J. MURDOCH
+0004.PAS      05-28-93  14:09  "TIMELOOP.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  14:09  "Calculate Program Time" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  14:09  "Timing Using TP Clock" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  14:09  "High Resolution Timer" by TURBOPOWER SOFTWARE
+0008.PAS      05-28-93  14:09  "Release Time Slices" by SWAG SUPPORT TEAM
+0009.PAS      08-27-93  22:03  "Giving Timeslices" by MARCO MILTENBURG
+0010.PAS      08-27-93  22:04  "Controling DOS Timer" by DAVID DAHL
+0011.PAS      08-27-93  22:05  "Free time for DV" by DANNY MELTON
+0012.PAS      09-26-93  09:30  "Hi-Res Timer" by MARTIN RICHARDSON
+0013.PAS      11-02-93  06:29  "Setting Timing at 21Khz" by CEES BINKHORST
+0014.PAS      01-27-94  12:23  "Timing Unit" by CHRIS BOYD
+0015.PAS      02-03-94  07:08  "Events on IRQ/TIMERS" by JAKE CHAPPLE
+0016.PAS      05-25-94  08:24  "Timing Functions" by TONI PERRETTA
+0017.PAS      05-26-94  06:18  "Stop Watch Function" by MARTIN ROMMEL
+0018.PAS      05-26-94  07:30  "Wait Correction" by SOUTHERN SOFTWARE
+0019.PAS      08-24-94  13:21  "Dpmi HiRes Timer" by KAI ROHRBACHER
+0020.PAS      08-24-94  13:44  "multitasking program" by PETE ROCCA
+0021.PAS      08-24-94  17:52  "A good Timer unit" by GAYLE DAVIS
+0022.PAS      08-25-94  09:12  "Clock Ticks" by STEVE ROGERS
+0023.PAS      11-26-94  05:04  "Super Precise Timing" by LOU DUCHEZ
+0024.PAS      11-26-94  05:04  "ASM High Resolution Timer" by JOHN O'HARROW
+0025.PAS      11-26-94  05:04  "WAIT any number of seconds" by MICHAEL HOENIE
+0026.PAS      11-26-94  05:04  "World Clock Program" by NATHAN DAWSOM
+0027.PAS      02-28-95  10:01  "Timing..." by LOU DUCHEZ
+0028.PAS      02-28-95  10:11  "Hi resolution Delay number of seconds" by SWAG SUPPORT TEAM
+0029.PAS      05-26-95  23:08  "Hardware Delay" by MAYNARD PHILBROOK
+0030.PAS      05-26-95  23:22  "New Timer Unit" by THOMAS HONORE NIELSEN
+0031.PAS      05-26-95  23:24  "CPU Independent Delay" by ANDREW EIGUS
+0032.PAS      05-26-95  23:30  "More Timing Functions" by MIKE WAROT
+0033.PAS      09-04-95  11:01  "Millisecond Timers" by BART BROERSMA
+0034.PAS      11-22-95  13:32  "Stopwatch Code" by STEVE ROGERS
+0035.PAS      11-22-95  13:32  "Timer unit" by CHRIS AUSTIN
+0036.PAS      02-21-96  21:03  "Re: BASM delay routine" by BRIAN PETERSEN
+0037.PAS      02-21-96  21:04  "Repeat until timeout" by UDO JUERSS
+0038.PAS      02-21-96  21:04  "Re: seconds since midnight" by BRIAN PETERSEN
+0039.PAS      02-21-96  21:04  "Re: CPU-time" by NUSRET TASCI
+0040.PAS      05-31-96  09:16  "Re: Hardware delays on all Platforms" by CIPHER@IAP.NET.AU
+0041.PAS      08-30-96  09:35  "A short timing unit" by JASPER VAN WOUDENBERG
+0042.PAS      08-30-97  10:09  "Timer Unit" by JACOB LISTER <LISTERJA@WERO.EE.CIT.
+0043.PAS      01-02-98  07:34  "Advanced measurment of operations" by YUVAL MELAMED

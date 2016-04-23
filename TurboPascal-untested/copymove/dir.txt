@@ -1,0 +1,23 @@
+SWAG Title: FILE COPY/MOVE ROUTINES
+0001.PAS      05-28-93  13:35  "Copy File #1" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:35  "Copy File #2" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:35  "Copy File #3" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:35  "Copy File #4" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:35  "Copy File #5" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:35  "Copy File #6" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:35  "Copy File with Display" by FLOOR A.C. NAAIJKENS
+0008.PAS      05-28-93  13:35  "Copy File from ECO-LIB" by FLOOR A.C. NAAIJKENS
+0009.PAS      05-28-93  13:35  "FAST Copy File" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:35  "Move File #1" by SWAG SUPPORT TEAM
+0011.PAS      05-28-93  13:35  "Move File #2" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:35  "Move File FAST" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:35  "Rename File #1" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:35  "Rename File #2" by SWAG SUPPORT TEAM
+0015.PAS      05-28-93  13:35  "Move File with Rename" by SWAG SUPPORT TEAM
+0016.PAS      06-22-93  07:50  "Copy/Move Files Anywhere" by SWAG SUPPORT TEAM
+0017.PAS      08-17-93  08:42  "An OOP FILECOPY" by SWAG SUPPORT TEAM
+0018.PAS      08-27-93  20:52  "Copy file in EMS" by MARK LEWIS
+0019.PAS      10-28-93  11:33  "File Copy Routine" by GUY MCLOUGHLIN
+0020.PAS      11-02-93  17:51  "Simple File Copy" by IAN LIN
+0021.PAS      02-28-95  10:00  "Fastest copy for the media" by DAVID MUIR
+0022.PAS      05-26-95  23:05  "Fast File Copy" by MARK OUELLET

@@ -1,0 +1,26 @@
+SWAG Title: INTERRUPT HANDLING ROUTINES
+0001.PAS      05-28-93  13:48  "BITSTUFF.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:48  "CLOCK1.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:48  "INTREXAM.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:48  "ISRINFO.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:48  "REG1.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-31-93  08:06  "Critical Error Trap" by SWAG SUPPORT TEAM
+0007.PAS      05-31-93  08:08  "Int29 Char Capture" by GAYLE DAVIS
+0008.PAS      08-17-93  08:40  "Hooking an interrupt" by SWAG SUPPORT TEAM
+0009.PAS      08-17-93  08:44  "Trapping Int21" by CHRIS PRIEDE
+0010.PAS      08-27-93  20:26  "Changing the Int08 Rate" by JONATHAN WRITE
+0011.PAS      08-27-93  20:39  "Handling Ctrl-Break" by BRYCE OSTENSON
+0012.PAS      11-02-93  05:56  "Hooking an Interrupt" by CHRIS LAUTENBACH
+0013.PAS      11-02-93  05:57  "Writing an ISR" by JON JASIUNAS
+0014.PAS      01-27-94  12:09  "Interrupt Jumping" by DOUGLAS WEBB
+0015.PAS      01-27-94  13:33  "Disable the pause key" by GREG ESTABROOKS
+0016.PAS      02-03-94  11:04  "How to Grab Interrupts" by SWAG SUPPORT TEAM
+0017.PAS      02-09-94  11:50  "Disabling The Ctrl-Alt-D" by TIM MCKAY
+0018.PAS      05-26-94  06:20  "Screen Blanker-Interrupts" by MAYNARD PHILBROOK
+0019.PAS      05-26-94  11:03  "Interrupt Table" by KEVIN MESS
+0020.PAS      11-26-94  04:55  "Protected Mode Interrupts" by RAPHAEL VANNEY
+0021.PAS      05-26-95  23:27  "ISR's etc!" by GERHARD SKOLNIK
+0022.PAS      02-21-96  21:03  "Interrupt driven external events" by UDO JUERSS
+0023.PAS      05-30-97  18:17  "Create your own interrupt" by SALVATORE MESCHINI
+0024.PAS      08-30-97  10:09  "ASM Flags" by PETER LOUWEN
+0025.PAS      01-02-98  07:35  "Simple Disable of CTRL-ALT=DEL" by PINO NAVATO

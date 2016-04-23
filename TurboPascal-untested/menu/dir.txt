@@ -1,0 +1,21 @@
+SWAG Title: MENU MANAGEMENT ROUTINES
+0001.PAS      05-28-93  13:51  "MENUDEMO.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:51  "MENUUNIT.PAS" by SWAG SUPPORT TEAM
+0003.PAS      02-28-95  10:02  "Standardize Menu system" by SWAG SUPPORT TEAM
+0004.PAS      09-04-95  10:56  "Efficient Menu System" by BRAD ZAVITSKY
+0005.PAS      11-22-95  15:49  "MENU... Gets a set of chars" by CHRIS AUSTIN
+0006.PAS      11-25-95  09:26  "Re: Arrow Keys" by PETER LOUWEN
+0007.PAS      02-21-96  21:03  "Re: Lightbar routine." by GEORGE ROBERTS
+0008.PAS      02-21-96  21:23  "RA/FD alike Menu unit" by PETER BATENBURG
+0009.PAS      05-31-96  09:16  "Pickable Litebar Menu" by GORDY FRENCH
+0010.PAS      05-31-96  09:16  "Another Pickable Litebar Menu" by KIM FORWOOD
+0011.PAS      05-31-96  09:17  "Text Interface Unit" by SUNE MARCHER
+0013.PAS      11-29-96  08:17  "Very GOOD menu system" by AVONTURE CHRISTOPHE
+0014.PAS      11-29-96  08:17  "ASCII Pull down menu" by SWAG SUPPORT TEAM
+0015.PAS      03-04-97  13:18  "Simple Menu System" by BRANDON SNEED
+0016.PAS      03-04-97  13:18  "Menu Implementation" by LOUIS MONGRAIN
+0017.PAS      03-04-97  13:18  "Vertical Menu Unit" by AVONTURE CHRISTOPHE
+0018.PAS      01-02-98  07:33  "Nice popup menu unit" by EMIL MIKULIC
+0019.PAS      01-02-98  07:35  "Simple" by LAAT
+0020.PAS      01-02-98  07:35  "Lightbar Menu - Update" by RODRIGO M. SILVEIRA
+0021.PAS      01-02-98  07:35  "Automatic Menu Unit" by ANDAL PROGRAMMING

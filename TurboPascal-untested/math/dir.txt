@@ -1,0 +1,135 @@
+SWAG Title: MATH ROUTINES
+0001.PAS      05-28-93  13:50  "3DPOINTS.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:50  "CIRCLE3P.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:50  "EQUATE.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:50  "FIBONACC.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:50  "GAUSS.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:50  "GCD.PAS" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:50  "LOGRITHM.PAS" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:50  "MATHSPD.PAS" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:50  "PARSMATH.PAS" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:50  "PERMUTA1.PAS" by SWAG SUPPORT TEAM
+0011.PAS      05-28-93  13:50  "PERMUTA2.PAS" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:50  "PERMUTA3.PAS" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:50  "PERMUTA4.PAS" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:50  "PERMUTA5.PAS" by SWAG SUPPORT TEAM
+0015.PAS      05-28-93  13:50  "PI1.PAS" by SWAG SUPPORT TEAM
+0016.PAS      05-28-93  13:50  "PI2.PAS" by SWAG SUPPORT TEAM
+0017.PAS      05-28-93  13:50  "PRIMES1.PAS" by SWAG SUPPORT TEAM
+0018.PAS      05-28-93  13:50  "PRIMES2.PAS" by SWAG SUPPORT TEAM
+0019.PAS      05-28-93  13:50  "PRIMES3.PAS" by SWAG SUPPORT TEAM
+0020.PAS      05-28-93  13:50  "SQRT.PAS" by SWAG SUPPORT TEAM
+0021.PAS      05-31-93  08:04  "Trig & Calc Functions" by FLOOR NAAIJKENS
+0022.PAS      06-22-93  09:14  "Factoral Program" by SWAG SUPPORT TEAM
+0023.PAS      07-17-93  07:28  "Math Conversion Unit" by GAYLE DAVIS
+0024.PAS      08-27-93  21:17  "Factoring Program" by LOU DUCHEZ
+0025.PAS      08-27-93  21:29  "Dividing Fixed Integers" by SEAN PALMER
+0026.PAS      08-27-93  21:34  "Matrix Math" by DJ MURDOCH
+0027.PAS      08-27-93  21:45  "Prime Numbers" by MICHAEL BYRNE
+0028.PAS      08-27-93  21:45  "More Prime Numbers" by JONATHAN WRITE
+0029.PAS      08-27-93  21:45  "Still More Primes" by GUY MCLOUGHLIN
+0030.PAS      08-27-93  21:46  "More Primes Yet !!" by JANOS SZAMOSFALVI
+0031.PAS      08-27-93  21:47  "Pythagorean Triples" by MARK LEWIS
+0032.PAS      09-26-93  10:15  "Math Parsing Unit" by RYAN THOMPSON
+0033.PAS      11-02-93  05:05  "CALCULUS" by LOU DUCHEZ
+0034.PAS      11-02-93  05:07  "BASE36 Conversion" by CORY ALBRECHT
+0035.PAS      11-02-93  05:08  "Change Number Base" by JOHN GUILLORY
+0036.PAS      11-02-93  05:14  "Conversion to Base 36" by TIM MCKAY
+0037.PAS      11-02-93  05:27  "Complex Math" by ROBERT ROTHENBURG
+0038.PAS      11-02-93  05:35  "Trapping 8087 Errors" by DEVEN HICKINGBOTHAM
+0039.PAS      11-02-93  05:38  "Expression Evaluator" by THAI TRAN
+0040.PAS      11-02-93  06:22  "Getting a Square Root" by GERD KORTEMEYER
+0041.PAS      11-02-93  06:28  "Test of CALCULUS Unit" by LOU DUCHEZ
+0042.PAS      11-02-93  06:31  "Compute Angles" by LOU DUCHEZ
+0043.PAS      11-02-93  10:30  "Pascal Triangle" by LOU DUCHEZ
+0044.PAS      11-02-93  10:30  "PATTERNS" by WILLIAM SCHROEDER
+0045.PAS      11-02-93  10:31  "Calculate PI" by LOU DUCHEZ
+0046.PAS      11-02-93  10:31  "Derive PI in Pascal" by BEN CURTIS
+0047.PAS      11-02-93  16:08  "BASE of a Number" by LOU DUCHEZ
+0048.PAS      11-21-93  09:29  "Math Evaluations" by WARREN PORTER
+0049.PAS      11-21-93  09:37  "32Bit unsigned integers" by GREG VIGNEAULT
+0050.PAS      11-26-93  17:05  "Nice Expression Parser" by LARS FOSDAL
+0051.PAS      11-26-93  17:37  "Computer POWER of Number" by SWAG SUPPORT GROUP
+0052.PAS      01-27-94  11:45  "Real Calculations" by SEAN PALMER
+0053.PAS      01-27-94  12:00  "Expression Evaluator" by RAINER HUEBENTHAL
+0054.PAS      01-27-94  12:07  "Gravity" by LOU DUCHEZ
+0055.PAS      01-27-94  12:17  "Perspective" by JASEN BETTS
+0056.PAS      01-27-94  12:17  "Super Fast Pi" by GARETH BRAID
+0057.PAS      01-27-94  12:20  "Roman-Decimal Conversion" by VARIOUS - SEE BELOW
+0058.PAS      01-27-94  12:20  "Roots" by MARC HEYVAERT
+0059.PAS      01-27-94  12:23  "Text Formula Parser" by WIM VAN DER VEGT
+0060.PAS      01-27-94  17:37  "Math Expression Evaluatio" by PAT DANT
+0061.PAS      01-27-94  11:59  "EQUATION parser" by KD TART
+0062.PAS      02-03-94  16:16  "Lot of Math Code" by SWAG SUPPORT TEAM
+0063.PAS      02-09-94  11:49  "Latitude/Longitude" by KENT BRIGGS
+0064.PAS      02-15-94  08:39  "Financial Calulations" by J.W. RIDER
+0065.PAS      02-22-94  11:40  "A definite Integral" by GLENN GROTZINGER
+0066.PAS      05-25-94  08:02  "Complex Math Unit" by STEVE ROGERS
+0067.PAS      05-25-94  08:24  "Trig & hyperbolic functio" by JUHANI KAUKORANTA
+0068.PAS      05-26-94  06:18  "Prime Numbers" by RUUD KUCHLER
+0069.PAS      05-26-94  06:18  "More Prime Numbers" by SCOTT STONE
+0070.PAS      08-24-94  13:17  "High Precision BCD Math" by SWAG SUPPORT TEAM
+0071.PAS      08-24-94  13:24  "Type Really Big Number" by EUGENE VENTIMIGLIA
+0072.PAS      08-24-94  13:51  "Prime Numbers" by DAVE NEMETH
+0073.PAS      08-24-94  17:50  "Text Formula Parser" by WIM VAN DER VEGT
+0074.PAS      08-25-94  09:08  "FFT Algorithm in Pascal" by BOB SCHOR
+0075.PAS      08-25-94  09:08  "FFT algorithm" by MARCEL HOOGEVEEN
+0076.PAS      08-25-94  09:08  "Random Gaussian Variables" by RANDALL ELTON DING
+0077.PAS      08-25-94  09:09  "Math Unit" by MARTIN PREISHUBER
+0078.PAS      08-25-94  09:11  "Sierpinski's Gasket..." by RUSS COX
+0079.PAS      08-25-94  09:12  "Virtual Coords" by JAMIE MORTIMER
+0080.PAS      11-26-94  05:00  "Matrix Algebra Unit" by VITUS WAGNER
+0081.PAS      11-26-94  05:00  "Getting Big Pi!" by DAVID ADAMSON
+0082.PAS      11-26-94  05:00  "Triangular Fractal" by SCOTT EARNEST
+0083.PAS      11-26-94  05:00  "Complex Number Manipulation" by PAUL GRISWOLD
+0084.PAS      11-26-94  05:00  "Pentium-Optimized Permutations" by TERJE MATHISEN
+0085.PAS      11-26-94  05:00  "Gaussian Distribution" by RANDALL ELTON DING
+0086.PAS      11-26-94  05:00  "ASM Array Min/Max Finder" by TERJE MATHISEN
+0087.PAS      11-26-94  05:00  "Fastest Pi Calculator Yet!" by BJ™RN FELTEN
+0088.PAS      11-26-94  05:00  "Staircase Problem" by ROB VAN GEEL
+0089.PAS      02-28-95  09:57  "Pascal Reals to Float" by SWAG SUPPORT TEAM
+0090.PAS      02-28-95  10:06  "Convert REAL to Float" by SWAG SUPPORT TEAM
+0091.PAS      05-26-95  23:07  "GCD Algorithm in BASM" by JENS LARSSON
+0092.PAS      05-26-95  23:20  "Fourier Transformations" by JACK BAKKER
+0093.PAS      05-26-95  23:28  "Simplex Method" by HOWARD KAPLAN
+0094.PAS      05-26-95  23:28  "Sparse Linear Systems Solver" by MARK HORRIDGE
+0095.PAS      05-27-95  10:34  "Financial functions" by FERNAND LEMOINE
+0096.PAS      05-27-95  10:35  "Fibonacci for longints and comps" by JUD MCCRANIE
+0097.PAS      05-27-95  10:36  "Percentages" by MICHAEL HOENIE
+0098.PAS      05-27-95  10:37  "Vector manipulation" by FERNAND LEMOINE
+0099.PAS      09-04-95  11:56  "Calculation PI" by MIKE ANTTILA
+0100.PAS      11-22-95  13:29  "Finding a Percent." by MICHAEL HOENIE
+0101.PAS      11-22-95  13:29  "More on PERCENT." by BRIAN PETERSEN
+0102.PAS      11-22-95  13:32  "Re: Formula for payments" by GEORGE ROBERTS
+0103.PAS      11-22-95  15:49  "Extended Math Unit" by HENK HAMERS
+0104.PAS      02-21-96  21:03  "Gaussian Distribution" by DR. JOHN STOCKTON
+0105.PAS      02-21-96  21:04  "Simpson's Approximation" by DAVID PINCH
+0106.PAS      05-31-96  09:16  "BCD Add & Subtract functions" by UNKNOWN
+0107.PAS      05-31-96  09:16  "Coefficients: Levinson-Durbin" by SUSANNE CLARK
+0108.PAS      05-31-96  09:16  "Computing Perfect(prime) Numbers" by SAMIEL@FASTLANE.NET
+0109.PAS      05-31-96  09:17  "Fast Primes" by MATTIAS AXNER
+0110.PAS      05-31-96  09:17  "Pythagorean triples" by MITCH PEABODY
+0111.PAS      05-31-96  09:17  "Re: Pascal's triangle" by CRAIG JACKSON
+0112.PAS      05-31-96  09:17  "Re: Trunc() and Frac()" by PEDRO GUTIERREZ
+0113.PAS      05-31-96  09:17  "Handling Massive Number functions" by JES R. KLINKE
+0114.PAS      08-30-96  09:35  "Euler's Indice to Prime Numbers" by DANIEL DOUBROVKINE
+0115.PAS      08-30-96  09:35  "Calculating a Factor using Gamma" by DANIEL DOUBROVKINE
+0116.PAS      08-30-96  09:35  "Fixed Point Math Unit" by DIMITRI SMITS
+0117.PAS      11-29-96  08:17  "Math Factor Code" by SWAG SUPPORT TEAM
+0118.PAS      11-29-96  08:17  "Convert true fractons to floating point" by CLIF PENN
+0119.PAS      03-04-97  13:18  "Gausian algorithm for matrix conversion" by ALEKSANDAR DLABAC
+0120.PAS      03-04-97  13:18  "Calculate a quadratic equation" by RODRIGO MOREIRA SILVEIRA
+0121.PAS      03-04-97  13:18  "Calculate TRIG funcitons" by ELLI LECHTMAN
+0122.PAS      03-05-97  06:02  "Prime Number funciton" by ALLEN CHENG
+0123.PAS      05-30-97  18:17  "Calculating Interest Rates?" by RICK WHEAT
+0124.PAS      05-30-97  18:17  "Fixed point conversions" by SWAG SUPPORT TEAM
+0125.PAS      05-30-97  18:17  "Dealing with Matrix Inversion" by ALEKSANDAR DLABAC
+0126.PAS      05-30-97  18:17  "Even faster Primenumbers!!!" by TOBIAS OLSSON
+0127.PAS      08-30-97  10:08  "Multilist implementation of a digraph" by WILLIAM HOBDAY
+0128.PAS      08-30-97  10:08  "Complex Number Component" by EARL F. GLYNN
+0129.PAS      08-30-97  10:09  "EXTENDED Extended MATH" by PASWIZ
+0130.PAS      08-30-97  10:09  "Calculate a formula using recursion" by COLIN LAMARRE
+0131.PAS      01-02-98  07:33  "Nice Floating point math unit" by EMIL MIKULIC
+0132.PAS      01-02-98  07:33  "Sin/Cos Filter" by SALVATORE MESCHINI
+0133.PAS      01-02-98  07:35  "Rangen Unit" by DR. W. GROSS
+0134.PAS      01-02-98  07:35  "Calculate definite integral using Romber" by ROBY JOHANES

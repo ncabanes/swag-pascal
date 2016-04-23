@@ -1,0 +1,72 @@
+SWAG Title: TURTLE GRAPHIC IN OOP
+DYNSTACK.PAS  02-26-97  21:05  "Unit - dynamical stack unit" by ZAHORANSKY VLADIMIR
+GRAPHP.TXT    02-26-97  17:16  "Sumary for 8 graph's pictures" by ZAHORANSKY VLADIMIR
+GRAPHP01.PAS  02-26-97  17:17  "Draw cartezian's coordinate system" by ZAHORANSKY VLADIMIR
+GRAPHP02.PAS  02-26-97  17:18  "Points in coordinate system" by ZAHORANSKY VLADIMIR
+GRAPHP03.PAS  02-26-97  17:20  "Draw point if you turn mouse" by ZAHORANSKY VLADIMIR
+GRAPHP04.PAS  02-26-97  17:20  "Line in direction version" by ZAHORANSKY VLADIMIR
+GRAPHP05.PAS  02-26-97  17:22  "Line in general direction version" by ZAHORANSKY VLADIMIR
+GRAPHP06.PAS  02-26-97  17:22  "Line in general equation version" by ZAHORANSKY VLADIMIR
+GRAPHP07.PAS  02-26-97  17:23  "Parametrical express of line" by ZAHORANSKY VLADIMIR
+GRAPHP20.PAS  02-26-97  17:25  "General version 1 for drawing graphs" by ZAHORANSKY VLADIMIR
+KORPIC.TXT    02-16-97  18:03  "Sumary for 15 turtle pictures" by ZAHORANSKY VLADIMIR
+KORPIC01.PAS  02-16-97  18:04  "Circle anomals" by ZAHORANSKY VLADIMIR
+KORPIC02.PAS  02-16-97  18:05  "Anomals circle definition - backset" by ZAHORANSKY VLADIMIR
+KORPIC03.PAS  02-16-97  18:06  "The anomals for spirals" by ZAHORANSKY VLADIMIR
+KORPIC04.PAS  02-16-97  18:06  "Regular n-angle" by ZAHORANSKY VLADIMIR
+KORPIC05.PAS  02-16-97  18:07  "N-angle + examples" by ZAHORANSKY VLADIMIR
+KORPIC06.PAS  02-16-97  18:08  "Tenis ball" by ZAHORANSKY VLADIMIR
+KORPIC07.PAS  02-16-97  18:09  "Turtle rotations with objects" by ZAHORANSKY VLADIMIR
+KORPIC08.PAS  02-16-97  18:10  "The anomals with treepetal" by ZAHORANSKY VLADIMIR
+KORPIC09.PAS  02-16-97  18:11  "Flower with turtle" by ZAHORANSKY VLADIMIR
+KORPIC10.PAS  02-16-97  18:12  "Flower with anomals" by ZAHORANSKY VLADIMIR
+KORPIC11.PAS  02-16-97  18:13  "Averange of two turtle traectoris" by ZAHORANSKY VLADIMIR
+KORPIC12.PAS  02-16-97  18:14  "The turtle's sun" by ZAHORANSKY VLADIMIR
+KORPIC13.PAS  02-16-97  18:15  "Honeycomb version 1" by ZAHORANSKY VLADIMIR
+KORPIC14.PAS  02-16-97  18:16  "Honeycomb version 2" by ZAHORANSKY VLADIMIR
+KORPIC15.PAS  02-16-97  18:16  "Flower sign 1" by ZAHORANSKY VLADIMIR
+LOTTRP.TXT    02-26-97  15:11  "Sumary for 5 lotturtles pictures" by ZAHORANSKY VLADIMIR
+LOTTRP01.PAS  02-26-97  15:12  "Draw circles !" by ZAHORANSKY VLADIMIR
+LOTTRP02.PAS  02-26-97  15:29  "All turtles draw circles once" by ZAHORANSKY VLADIMIR
+LOTTRP03.PAS  02-26-97  15:30  "Raptile turtles !!!" by ZAHORANSKY VLADIMIR
+LOTTRP04.PAS  02-26-97  15:32  "Oscilate the turtles!" by ZAHORANSKY VLADIMIR
+LOTTRP05.PAS  02-26-97  15:33  "Move turtles!" by ZAHORANSKY VLADIMIR
+MYS.PAS       02-26-97  21:06  "Unit - turtle mouse version 1" by ZAHORANSKY VLADIMIR
+MYSPIC.TXT    02-26-97  14:59  "Sumary for 6 pictures with mouse" by ZAHORANSKY VLADIMIR
+MYSPIC01.PAS  02-26-97  15:00  "Turtle running the mouse version 1" by ZAHORANSKY VLADIMIR
+MYSPIC02.PAS  02-26-97  15:01  "Turtle running the mouse version 2" by ZAHORANSKY VLADIMIR
+MYSPIC03.PAS  02-26-97  15:02  "Turtle runing the mouse line version 1" by ZAHORANSKY VLADIMIR
+MYSPIC04.PAS  02-26-97  15:03  "Turtle overdraw with coordinate system" by ZAHORANSKY VLADIMIR
+MYSPIC05.PAS  02-26-97  15:06  "Where you turn, there turtle draw circle" by ZAHORANSKY VLADIMIR
+MYSPIC06.PAS  02-26-97  15:07  "Where is turtle and mouse turn" by ZAHORANSKY VLADIMIR
+OKORFR.PAS    02-26-97  21:07  "Unit - turtle graphic untype file reader" by ZAHORANSKY VLADIMIR
+OKORFW.PAS    02-26-97  21:08  "Unit - turtle graphic with untype files" by ZAHORANSKY VLADIMIR
+OSTACK.PAS    02-26-97  21:03  "Unit - turtle stack" by ZAHORANSKY VLADIMIR
+OSTACK_B.PAS  02-26-97  21:04  "Unit - turtle stack for beginers" by ZAHORANSKY VLADIMIR
+READ.ME       02-15-97  12:39  "Introduction into turtles" by ZAHORANSKY VLADIMIR
+REKPIC.TXT    02-15-97  19:59  "Sumary for 25 rekusive pictures" by ZAHORANSKY VLADIMIR
+REKPIC01.PAS  02-15-97  20:00  "Shnee flake drawed with rekusion" by ZAHORANSKY VLADIMIR
+REKPIC02.PAS  02-15-97  20:01  "General shnee flake version" by ZAHORANSKY VLADIMIR
+REKPIC03.PAS  02-15-97  20:02  "General version for shnee flake inside" by ZAHORANSKY VLADIMIR
+REKPIC04.PAS  02-15-97  20:04  "Squard effekt with rekusion and flake" by ZAHORANSKY VLADIMIR
+REKPIC05.PAS  02-15-97  20:05  "Squard effekt with rekusion inside" by ZAHORANSKY VLADIMIR
+REKPIC06.PAS  02-15-97  20:11  "General version of squard effekt inside" by ZAHORANSKY VLADIMIR
+REKPIC07.PAS  02-15-97  20:12  "General version of squard effekt outside" by ZAHORANSKY VLADIMIR
+REKPIC08.PAS  02-15-97  20:13  "Spirals" by ZAHORANSKY VLADIMIR
+REKPIC09.PAS  02-15-97  20:13  "General version of spirals" by ZAHORANSKY VLADIMIR
+REKPIC10.PAS  02-15-97  20:14  "General version of spirals colorsorted" by ZAHORANSKY VLADIMIR
+REKPIC11.PAS  02-15-97  20:17  "Triangle in circle no rekusion version" by ZAHORANSKY VLADIMIR
+REKPIC12.PAS  02-15-97  20:18  "Triangle in circle rekusion version" by ZAHORANSKY VLADIMIR
+REKPIC13.PAS  02-15-97  20:20  "Squard in circle norekusion version" by ZAHORANSKY VLADIMIR
+REKPIC14.PAS  02-15-97  20:22  "Squard in circle rekusion version" by ZAHORANSKY VLADIMIR
+REKPIC15.PAS  02-15-97  20:23  "N-angle in circle norekusion version" by ZAHORANSKY VLADIMIR
+REKPIC16.PAS  02-15-97  20:23  "N-angle in circle rekusion version" by ZAHORANSKY VLADIMIR
+REKPIC17.PAS  02-15-97  20:24  "Trees (no petals)" by ZAHORANSKY VLADIMIR
+REKPIC18.PAS  02-15-97  20:25  "Trees with petals" by ZAHORANSKY VLADIMIR
+REKPIC19.PAS  02-15-97  20:26  "Squards in squard norekusion version" by ZAHORANSKY VLADIMIR
+REKPIC20.PAS  02-15-97  20:27  "Squards in squard rekusive version" by ZAHORANSKY VLADIMIR
+REKPIC21.PAS  02-15-97  20:28  "Triangles in triangle norekusion version" by ZAHORANSKY VLADIMIR
+REKPIC22.PAS  02-15-97  20:29  "Tiangles in triangle rekusive version" by ZAHORANSKY VLADIMIR
+REKPIC23.PAS  02-15-97  20:30  "N-angles in N-angle norekusion version" by ZAHORANSKY VLADIMIR
+REKPIC24.PAS  02-15-97  20:31  "N-angles in N-angle rekusive version" by ZAHORANSKY VLADIMIR
+REKPIC25.PAS  02-15-97  20:32  "McCarthy 91 rekusion with turtles" by ZAHORANSKY VLADIMIR

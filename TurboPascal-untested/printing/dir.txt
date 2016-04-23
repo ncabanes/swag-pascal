@@ -1,0 +1,57 @@
+SWAG Title: PRINTING/PRINTER MANAGEMENT ROUTINES
+0001.PAS      05-28-93  13:55  "HP Envelope Printing" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:55  "LJ-G-TST.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:55  "LJ-GRAPH.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:55  "LJ-GRPH2.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:55  "Printing from CmdLine" by GREG VIGNEAULT
+0006.PAS      05-28-93  13:55  "PRINTER.PAS" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:55  "PRINTER1.PAS" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:55  "PRINTER2.PAS" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:55  "PRINTER3.PAS" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:55  "PRINTER4.PAS" by SWAG SUPPORT TEAM
+0011.PAS      05-28-93  13:55  "PRINTER5.PAS" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:55  "PRINTER6.PAS" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:55  "PRINTER7.PAS" by SWAG SUPPORT TEAM
+0014.PAS      06-22-93  09:11  "Write to CON and PRN" by SWAG SUPPORT TEAM
+0015.PAS      06-22-93  09:21  "Check for Printer Ready" by SWAG SUPPORT TEAM
+0016.PAS      07-16-93  06:12  "Printer Ready Function" by CHRIS PRIEDE
+0017.PAS      07-16-93  06:12  "GREAT Printer Unit" by GUY MCLOUGHLIN
+0018.PAS      07-16-93  06:14  "Print Spooler Interface" by SWAG SUPPORT TEAM
+0019.PAS      08-17-93  08:40  "Checking For Printer" by SWAG SUPPORT TEAM
+0020.PAS      08-17-93  08:48  "Printer Check Routines" by SWAG SUPPORT TEAM
+0021.PAS      08-18-93  12:28  "Base address - parallel" by JOSE ALMEIDA
+0022.PAS      08-18-93  12:28  "Number of parallel ports" by JOSE ALMEIDA
+0023.PAS      08-18-93  12:29  "Time-Out values" by JOSE ALMEIDA
+0024.PAS      08-27-93  21:46  "Object printer" by JACK WILSON
+0025.PAS      11-02-93  05:47  "Graphics Dump to Laser" by JAN BARENDREGT
+0026.PAS      11-02-93  10:33  "PRINTER Handler" by RANDALL WOODMAN
+0027.PAS      11-21-93  09:45  "Printusing in PASCAL" by PHIL NICKELL
+0028.PAS      11-26-93  17:38  "PRINTER Unit Replacement" by SWAG SUPPORT GROUP
+0029.PAS      01-27-94  12:19  "Print Screen" by DAVID HOWORTH
+0030.PAS      01-27-94  12:22  "Control DOS Print Spooler" by VARIOUS - SEE BELOW
+0031.PAS      01-27-94  17:30  "Bar Code Matrix Printers" by MAYNARD PHILBROOK
+0032.PAS      01-27-94  17:45  "HP Laser Jet Functions" by SWAG SUPPORT TEAM
+0033.PAS      02-15-94  08:03  "Printout with error check" by RICHARD GRIFFIN
+0034.PAS      02-15-94  08:05  "PrintScreen for Text Mode" by SWAG SUPPORT TEAM
+0035.PAS      08-24-94  13:52  "Is Printer Online ??" by MIKE COPELAND
+0036.PAS      08-25-94  09:06  "Printing Graphics" by RANDALL ELTON DING
+0037.PAS      08-25-94  09:09  "Postscript File Manipulat" by MARTIN PREISHUBER
+0038.PAS      08-25-94  09:10  "Printing Graphics" by RANDALL ELTON DING
+0039.PAS      11-26-94  04:57  "Printing Epson Graphics" by RANDALL ELTON DING
+0040.PAS      11-26-94  04:57  "Disable Print-Screen" by GREG ESTABROOKS
+0041.PAS      02-28-95  09:48  "EAN-8 & EAN-13 Barcode printing" by ROHIT GUPTA
+0042.PAS      02-28-95  10:04  "Controlling PRNTSCRN" by STEVE ROGERS
+0043.PAS      02-28-95  10:05  "Get PRINTER Status" by SWAG SUPPORT TEAM
+0044.PAS      02-28-95  10:05  "Complete PRINTER Unit" by BRIAN RICHARDSON
+0045.PAS      05-27-95  10:33  "Send  graphics images to Epson" by SWAG SUPPORT TEAM
+0046.PAS      09-04-95  10:51  "Graphics To HP Printers" by SWAG SUPPORT TEAM
+0047.PAS      09-04-95  10:56  "Printer Control" by SWAG SUPPORT TEAM
+0048.PAS      11-22-95  13:30  "Re: printer Ready" by PETER PRIESKE
+0049.PAS      11-22-95  15:49  "Printing to a PostScript Printer" by CHRIS FRIZELLE
+0050.PAS      11-22-95  15:50  "Printer Troubles" by JAN FEIJES
+0051.PAS      02-21-96  21:03  "HP-DESKJET UNIT" by JOHN VD BURG
+0052.PAS      05-31-96  09:16  "Printing a graphics screen" by NICO DESMEDT
+0053.PAS      08-30-96  09:36  "Various Examples of Dumping Graphics to" by RON NOSSAMAN
+0054.PAS      08-30-96  09:36  "Make your own graph paper" by RON NOSSAMAN
+0055.PAS      11-29-96  08:17  "Dumping graphics to laser printers" by SWAG SUPPORT TEAM
+0056.PAS      08-30-97  10:21  "Complete Print Screen Unit" by SALVATORE MESCHINI

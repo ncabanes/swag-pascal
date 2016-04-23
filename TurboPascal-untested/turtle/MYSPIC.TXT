@@ -1,0 +1,12 @@
+   This is the sumary of turtle pictures. The number of 1..6 is
+   name of file myspicxx.pas. Here are the functions of all programs.
+
+   ÚÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³ 1 ³ Turtle runing the mouse version 1          ³
+   ³ 2 ³ Turtle runing the mouse version 2          ³
+   ³ 3 ³ Turtle runing the mouse line version 1     ³
+   ³ 4 ³ Turtle overdraw with coordinate system     ³
+   ³ 5 ³ Where you turn there turtle draw circle    ³
+   ³ 6 ³ Where is turtle and mouse turn             ³
+   ÀÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+

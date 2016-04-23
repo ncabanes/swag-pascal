@@ -1,0 +1,50 @@
+SWAG Title: POINTERS, LINKING, LISTS, TREES
+0001.PAS      05-28-93  13:54  "DLLIST1.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:54  "LINKLIST.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:54  "LL-INSRT.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:54  "LL_TEST.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:54  "OOP-LLST.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:54  "PTR-MEM.PAS" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:54  "PTRARRAY.PAS" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:54  "TREEHITE.PAS" by SWAG SUPPORT TEAM
+0009.PAS      06-22-93  09:20  "Generic Linked List" by SWAG SUPPORT TEAM
+0010.PAS      08-17-93  08:39  "Binary Tree - Linked List" by SWAG SUPPORT TEAM
+0011.PAS      08-27-93  20:11  "AVL Binary Trees" by SWAG SUPPORT TEAM
+0012.PAS      09-26-93  08:50  "Linked Lists in EMS" by GARRY J. VASS
+0013.PAS      01-27-94  12:12  "Linked List Queues" by WARREN PORTER
+0014.PAS      02-03-94  16:08  "Linked List of Text" by KEN BURROWS
+0015.PAS      05-25-94  08:21  "Buffer Streams" by ALEXANDER STAUBO
+0016.PAS      05-26-94  11:06  "Linked List Routine" by BILL ZECH
+0017.PAS      08-24-94  13:32  "Duplicate File/String" by KEN BURROWS
+0018.PAS      08-24-94  13:44  "Example of LINKED Records" by SWAG SUPPORT TEAM
+0019.PAS      08-24-94  13:45  "Linked List Routine" by SWAG SUPPORT TEAM
+0020.PAS      08-24-94  13:49  "Double Linked Lists" by GUY MCLOUGHLIN
+0021.PAS      08-24-94  13:49  "OOP Linked Lists" by MARK GAUTHIER
+0022.PAS      08-24-94  13:50  "Pointers" by MARIUS ELLEN
+0023.PAS      08-24-94  13:58  "Match Strings in Array" by MARK GAUTHIER
+0024.PAS      08-24-94  13:59  "Nth array item in BASM" by SWAG SUPPORT TEAM
+0025.PAS      08-24-94  14:00  "Avl Tree Tally" by MATT BOUSEK
+0026.PAS      08-25-94  09:10  "Sorting Linked Lists" by LEE BARKER
+0027.PAS      08-25-94  09:11  "Stacks" by DEAVON EDWARDS
+0028.PAS      08-26-94  08:32  "Binary Tree Example" by SWAG SUPPORT TEAM
+0029.PAS      11-26-94  04:57  "Linked lists in Expanded Memory" by GARRY J. VASS
+0030.PAS      02-28-95  10:01  "Complete Link Lists" by J.C. WISE
+0031.PAS      05-26-95  23:01  "Displaying Pointer Values on Screen" by IAN LIN
+0032.PAS      09-04-95  10:52  "Link List Handling" by BILL ZECH
+0033.PAS      02-21-96  21:03  "Array Of Pointers" by JAN FEIJES
+0034.PAS      02-21-96  21:04  "How can I create a big array (>64K RAM)" by INCHAM VANLOP
+0035.PAS      05-31-96  09:17  "Re: String Queues" by MIKE PHILLIPS
+0036.PAS      05-31-96  09:17  "Linked List Management unit" by SUNE MARCHER
+0037.PAS      08-30-96  09:36  "Dynamically Sized List Unit" by MICHAEL DALES
+0038.PAS      08-30-96  09:36  "Ordered List Unit with Key" by MICHAEL DALES
+0039.PAS      11-29-96  08:17  "Very Large 2d arrays" by LEOPOLDO SALVO MASSIEU
+0040.PAS      11-29-96  08:17  "Sets with up to 500000 elements" by JIRI MULLER
+0041.PAS      11-29-96  08:17  "Help dealing with pointers" by ITAMAR ATIYA
+0042.PAS      11-29-96  08:17  "Standard Array Object using EFLIB" by JOHAN LARSSON
+0043.PAS      03-04-97  13:18  "Returns segment and offset of hex" by AVONTURE CHRISTOPHE
+0044.PAS      08-30-97  10:08  "Dynamic Arrays" by JONATHAN ANDERSON
+0045.PAS      08-30-97  10:08  "Bredth First traversal algorithm" by WILLIAM HOBDAY
+0046.PAS      08-30-97  10:08  "Binary Tree module" by SWAG SUPPORT TEAM
+0047.PAS      08-30-97  10:08  "Queue in an Array" by WILLIAM HOBDAY
+0048.PAS      08-30-97  10:09  "BTREE Unit" by ZAK SMITH
+0049.PAS      01-02-98  07:33  "Good Linked List Object" by EMIL MIKULIC

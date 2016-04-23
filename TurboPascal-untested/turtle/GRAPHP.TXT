@@ -1,0 +1,14 @@
+   This is the sumary of turtle pictures. The number of 1..8 is
+   name of file graphpcxx.pas. Here are the functions of all programs.
+
+   ÚÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³ 1 ³ Draw cartezian's coordinate system         ³
+   ³ 2 ³ Points in coordinate system                ³
+   ³ 3 ³ Draw point if you turn mouse               ³
+   ³ 4 ³ Line in direction version                  ³
+   ³ 5 ³ Line in general direction version          ³
+   ³ 6 ³ Line in general equation version           ³
+   ³ 7 ³ Parametrical express of line               ³
+   ³ 8 ³ General version 1 for drawing graphs       ³
+   ÀÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+

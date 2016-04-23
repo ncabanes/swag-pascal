@@ -1,0 +1,11 @@
+   This is the sumary of turtle pictures. The number of 1..5 is
+   name of file lottrpxx.pas. Here are the functions of all programs.
+
+   ÚÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³ 1 ³ Draw circles !                             ³
+   ³ 2 ³ All turtles draw circle once               ³
+   ³ 3 ³ Raptile, turtles !!!                       ³
+   ³ 4 ³ Oscilate the turtles !!!                   ³
+   ³ 5 ³ Move turtles!                              ³
+   ÀÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+

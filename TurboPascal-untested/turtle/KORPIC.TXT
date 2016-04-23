@@ -1,0 +1,21 @@
+   This is the sumary of turtle pictures. The number of 1..25 is
+   name of file rekpicxx.pas. Here are the functions of all programs.
+
+   ÚÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³ 1 ³ Circle anomals                             ³
+   ³ 2 ³ Anomals circle definition - backset        ³
+   ³ 3 ³ The anomals for spirales                   ³
+   ³ 4 ³ Regular n-angle                            ³
+   ³ 5 ³ N-angle + examples                         ³
+   ³ 6 ³ Tenis ball                                 ³
+   ³ 7 ³ Turtle rotations with objects              ³
+   ³ 8 ³ The anomals with treepetal                 ³
+   ³ 9 ³ Flower with turtle                         ³
+   ³ 10³ Flower with anomals                        ³
+   ³ 11³ Averange of two turtle traectoris          ³
+   ³ 12³ The turtle's sun                           ³
+   ³ 13³ Honeycomb version 1                        ³
+   ³ 14³ Honeycomb version 2                        ³
+   ³ 15³ Flower sign 1                              ³
+   ÀÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+

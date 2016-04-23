@@ -1,0 +1,22 @@
+SWAG Title: TEXT/GRAPHICS COLORS
+0001.PAS      05-28-93  13:34  "Change Background Colors" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:34  "Colors Bits" by MICHAEL NICOLAI
+0003.PAS      05-28-93  13:34  "Detect Display Type" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:34  "DOS Colors" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:34  "Get Palette" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:34  "Get VGA Palette" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:34  "Hi Intensity Colors" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:34  "Hi Intensity Colors #2" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:34  "Hi Inetnsity Colors #3" by ROBERT MASHLAN
+0010.PAS      05-28-93  13:34  "Hi Intensity Colors #4" by SWAG SUPPORT TEAM
+0011.PAS      05-28-93  13:34  "Hi Intensity Colors #5" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:34  "Palette Control" by GEOFF WATTS
+0013.PAS      05-28-93  13:34  "Palette Control #2" by SWAG SUPPORT TEAM
+0014.PAS      05-28-93  13:34  "Palette Control #3" by SWAG SUPPORT TEAM
+0015.PAS      05-28-93  13:34  "Some More Palette Control" by SWAG SUPPORT TEAM
+0016.PAS      05-28-93  13:34  "Setting Text Attr" by SWAG SUPPORT TEAM
+0017.PAS      05-28-93  13:34  "Background/Foreground" by SWAG SUPPORT TEAM
+0018.PAS      06-22-93  09:17  "Select HIGH Back Colors" by SWAG SUPPORT TEAM
+0019.PAS      08-18-93  12:25  "Complete color constants" by JOSE ALMEIDA
+0020.PAS      05-25-94  08:01  "Change Colors" by STEVEN DEBRUYN
+0021.PAS      05-26-94  06:18  "Color Codes" by MICHAEL HOENIE

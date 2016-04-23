@@ -1,0 +1,109 @@
+SWAG Title: SCREEN HANDLING ROUTINES
+0001.PAS      05-28-93  13:56  "CLRSCR1.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:56  "CLRSCR2.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:56  "CLRSCR3.PAS" by MICHAEL NICOLAI
+0004.PAS      05-28-93  13:56  "DUALOUT1.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:56  "GETCHAR1.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-28-93  13:56  "GETCHAR2.PAS" by SWAG SUPPORT TEAM
+0007.PAS      05-28-93  13:56  "GETSTRNG.PAS" by SWAG SUPPORT TEAM
+0008.PAS      05-28-93  13:56  "SAVERES.PAS" by SWAG SUPPORT TEAM
+0009.PAS      05-28-93  13:56  "SCRLTEXT.PAS" by SWAG SUPPORT TEAM
+0010.PAS      05-28-93  13:56  "SCRNSAVE.PAS" by GLEN WILSON
+0011.PAS      05-28-93  13:56  "SCRWRIT1.PAS" by SWAG SUPPORT TEAM
+0012.PAS      05-28-93  13:56  "SCRWRIT2.PAS" by SWAG SUPPORT TEAM
+0013.PAS      05-28-93  13:56  "SPEEDVID.PAS" by CHRIS LAUTENBACH
+0014.PAS      05-28-93  13:56  "TESTVID.PAS" by CHRIS LAUTENBACH
+0015.PAS      05-28-93  13:56  "TEXTMODE.PAS" by SWAG SUPPORT TEAM
+0016.PAS      05-28-93  13:56  "TEXTWDTH.PAS" by KELD HANSEN
+0017.PAS      05-28-93  13:56  "VIDEORAM.PAS" by BERNIE PALLEK
+0018.PAS      06-08-93  08:23  "Three FAST write Routines" by SWAG SUPPORT TEAM
+0019.PAS      06-22-93  09:22  "A CRT Replacement" by SWAG SUPPORT TEAM
+0020.PAS      06-22-93  09:22  "Screen Copy Utility" by SWAG SUPPORT TEAM
+0021.PAS      07-16-93  06:05  "Fast Direct Screen Writes" by SEAN PALMER
+0022.PAS      07-16-93  06:07  "Put Char at LAST Row/Col" by MIKE BURNS
+0023.PAS      07-16-93  06:08  "Classical FASTWRITE ASM" by GAYLE DAVIS
+0024.PAS      08-17-93  08:45  "MELT Chars on Video" by BERNIE PALLEK
+0025.PAS      08-23-93  09:15  "Get Video Char Direct" by WILLIAM SCHROEDER
+0026.PAS      08-23-93  09:16  "Direct Video in BASM" by JOHN GIESBRECT
+0027.PAS      08-27-93  20:27  "Changing Screen Attr" by DAVID DRZYZGA
+0028.PAS      08-27-93  21:19  "Very FAST FASTwrite" by SEAN PALMER
+0029.PAS      08-27-93  21:53  "Get/Set Screen Colors" by SEAN PALMER
+0030.PAS      08-27-93  21:54  "Window Shadows" by LOU DUCHEZ
+0031.PAS      08-27-93  21:55  "Turn Screen On/Off" by POON ROJANASOONTHON
+0032.PAS      08-27-93  21:55  "Direct Write & Scroll" by LOU DUCHEZ
+0033.PAS      10-28-93  11:37  "Screen I/O Routines" by GREG ESTABROOKS
+0034.PAS      11-02-93  04:54  "Changing Borders ASM" by SAM HASINOFF
+0035.PAS      11-02-93  04:59  "Set/Get Active Video Page" by ROBERT ROTHENBURG
+0036.PAS      11-02-93  05:00  "Display Chars at $A000" by SWAG SUPPORT TEAM
+0037.PAS      11-02-93  05:02  "Box Shadows" by KIMBA DOUGHTY
+0038.PAS      11-02-93  05:26  "Very FAST Clear Screen" by BRIAN PAPE
+0039.PAS      11-02-93  05:45  "Finding Number of Rows" by SEAN PALMER
+0040.PAS      11-02-93  06:12  "Wait for Vertical Retrace" by SANTERI SALMINEN
+0041.PAS      11-02-93  06:17  "Grabbing Screen Output" by KELLY SMALL
+0042.PAS      11-02-93  08:25  "Move to Screen Pages" by GREG ESTABROOKS
+0043.PAS      11-02-93  16:54  "ScreenBuffer Object" by STEFAN XENOS
+0044.PAS      11-21-93  09:34  "More FASTWRITE Routines" by SWAG SUPPORT TEAM
+0045.PAS      11-21-93  09:34  "GETCHAR routines" by VARIOUS
+0046.PAS      11-21-93  09:45  "SMOOTH Scroll" by CYRUS PATEL
+0047.PAS      11-26-93  17:04  "Dump Screen" by SWAG SUPPORT TEAM
+0048.PAS      11-26-93  17:40  "Turn SCREEN On/Off" by SWAG SUPPORT TEAM
+0049.PAS      01-27-94  11:55  "Clearing the Screen" by MARK LEWIS
+0050.PAS      01-27-94  11:59  "Screen Info" by SEAN PALMER
+0051.PAS      01-27-94  12:00  "Best Fade" by ETHAN BRODSKY
+0052.PAS      01-27-94  12:00  "Fast Retrace" by ANDRE GROSSE BLEY
+0053.PAS      01-27-94  12:00  "Fast Screen Writes" by MICHAEL HOENIE
+0054.PAS      01-27-94  12:04  "Screen Segment" by MAYNARD PHILBROOK
+0055.PAS      01-27-94  12:20  "Asm Retrace" by SEAN PALMER
+0056.PAS      01-27-94  12:21  "Screen Segment Info" by SEAN PALMER
+0057.PAS      01-27-94  12:25  "Screen Writes" by WILBERT VAN LEIJEN
+0058.PAS      01-27-94  12:31  "Capturing Video Strings" by SWAG SUPPORT TEAM
+0059.PAS      01-27-94  13:30  "Blink Bit Demo" by GREG ESTABROOKS
+0060.PAS      01-27-94  13:30  "Change the Screen Border" by GREG ESTABROOKS
+0061.PAS      01-27-94  13:31  "Text Fader" by SWAG SUPPORT TEAM
+0062.PAS      01-27-94  13:33  "Screen Saving Demo" by GREG ESTABROOKS
+0063.PAS      02-18-94  06:59  "3 Fast Write Routines" by VARIOUS
+0064.PAS      05-25-94  08:18  "Virtual Screens" by DAVID DUNSON
+0065.PAS      05-25-94  08:20  "Read Character Function" by JENS LARSSON
+0066.PAS      05-26-94  06:11  "Screen Saver w/mouse" by DAVID RAWSTHORNE
+0067.PAS      08-24-94  13:52  "Direct VIDEO write (BASM)" by SWAG SUPPORT TEAM
+0068.PAS      08-24-94  13:54  "Char At 80" by ANDREW EIGUS
+0069.PAS      08-25-94  09:07  "Fast Screen Write" by JAMIE MORTIMER
+0070.PAS      08-25-94  09:10  "VGA Palette Setting!" by ERIC MILLER
+0071.PAS      11-26-94  05:06  "Large Virtual Text Screen" by MICHAEL NICOLAI
+0072.PAS      11-26-94  05:06  "Screen Fun - Cascade And WipeIt!" by ALLEN WALKER
+0073.PAS      11-26-94  05:06  "Text Modes" by CHRIS FORBIS
+0074.PAS      11-26-94  05:06  "Universal Fastwrite" by JOHN O'HARROW
+0075.PAS      11-26-94  05:06  "GetPut Video portions" by CALABRO DAVIDE
+0076.PAS      11-26-94  05:06  "Screen grabber" by JOHN BALDWIN
+0077.PAS      11-26-94  05:06  "Hynopotic Screen Clear" by MICHAEL HOENIE
+0078.PAS      11-26-94  05:06  "Save/Restore Text Screen" by SWAG SUPPORT TEAM
+0079.PAS      02-28-95  10:06  "Character at Row" by DAVID HOWORTH
+0080.PAS      02-28-95  10:07  "Multipurpose Screen Unit" by SWAG SUPPORT TEAM
+0081.PAS      02-28-95  10:12  "Sorta good WritePattern" by STERLING BATES
+0082.PAS      02-28-95  10:12  "Sorta good WriteString" by STERLING BATES
+0083.PAS      05-26-95  22:59  "Hardware Cursor Unit" by BJ™RN FELTEN
+0084.PAS      05-26-95  23:07  "Multi-color Strings" by ORLANDO LLANES
+0085.PAS      05-26-95  23:08  "Advanced Text Mode Formats" by SEAN PALMER
+0086.PAS      05-26-95  23:22  "Turning Off Screen Output" by JORT BLOEM
+0087.PAS      05-26-95  23:27  "Partial Screen Scrolling Routines" by RUNE KVAM
+0088.PAS      05-26-95  23:28  "Shine FX" by CHRISTOPHER CHANDRA
+0089.PAS      05-26-95  23:29  "Various graphics and text stuff" by BYRON ELLACOTT
+0090.PAS      05-26-95  23:30  "TextMode RGB Values" by JUSTIN KING
+0091.PAS      05-26-95  23:32  "Very Smooth DOS Fades" by JORT BLOEM
+0092.PAS      09-04-95  10:58  "Nice little Percentage Meter" by CJ CLIFFE
+0093.PAS      09-04-95  11:00  "Screen Handling Routines" by TONY PEARDON
+0094.PAS      09-04-95  11:56  "Little Text Screen Thingy" by MICHAEL HOENIE
+0095.PAS      09-04-95  11:56  "Internal Screen Driver" by ARNE DE.BRUIJN
+0096.PAS      11-22-95  13:22  "drawbox routine" by CHRIS EVANS
+0097.PAS      11-22-95  13:25  "Changing Dos Chars How?" by ROBERT NEWCOMBE
+0098.PAS      11-22-95  13:26  "Suppressing Screen Output" by CHRIS AUSTIN
+0099.PAS      11-22-95  13:33  "Finding the Video Segment" by BRAD ZAVITSKY
+0100.PAS      11-22-95  15:50  "Sideways Scrolling of text" by TIM LASEK
+0101.PAS      02-21-96  21:04  "Saving and Restoring Text Screens" by ANDREAS SCHLECHTE
+0102.PAS      08-30-96  09:35  "Dynamic Windowing Unit" by KIM FORWOOD
+0103.PAS      08-30-96  09:36  "Create Virtual Screens in RAM" by STEFFEN UNGER
+0104.PAS      11-29-96  08:17  "Virtual Screens in RAM" by STEFFEN UNGER
+0105.PAS      03-04-97  13:18  "Read Chars from the visible screen" by AVONTURE CHRISTOPHE
+0106.PAS      03-04-97  13:18  "Fast Video Output to memory" by AVONTURE CHRISTOPHE
+0107.PAS      03-04-97  13:18  "Nice Screen Handling unit" by KEVIN EPSTEIN
+0108.PAS      08-30-97  10:09  "Grabbing the Screen" by MORITZ BARTL

@@ -1,0 +1,31 @@
+   This is the sumary of rekusive pictures. The number of 1..25 is
+   name of file rekpicxx.pas. Here are the functions of all programs.
+
+   ÚÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³ 1 ³  Shnee flake drawed with recusion          ³
+   ³ 2 ³  General shnee flake version               ³
+   ³ 3 ³  General version for flake inside          ³
+   ³ 4 ³  Squard effect with rekusion and flake     ³
+   ³ 5 ³  Squard effekt with rekusion inside        ³
+   ³ 6 ³  general version of squard effect inside   ³
+   ³ 7 ³  general version of squard effect outside  ³
+   ³ 8 ³  Spirals                                   ³
+   ³ 9 ³  General version of Spirals                ³
+   ³ 10³  General version of Spirals colorsorted    ³
+   ³ 11³  Triangle, circle Nx no rekuzive version   ³
+   ³ 12³  Triangle in circle - rekusion version     ³
+   ³ 13³  squard, circle Nx in rekusion version     ³
+   ³ 14³  Squard in circle - rekusion version       ³
+   ³ 15³  Gen. v. for n-angle in circle no rekusion ³
+   ³ 16³  Gen. rek. v. for n-angle in circle effekt ³
+   ³ 17³  Trees (no petals)                         ³
+   ³ 18³  Trees with petals                         ³
+   ³ 19³  Squards in squard - norekusion            ³
+   ³ 20³  Squards in squard - rekusion version      ³
+   ³ 21³  Triangles in triangle - norekusion        ³
+   ³ 22³  Triangles in triangle - rekusion          ³
+   ³ 23³  General version of n-angles - norekusion  ³
+   ³ 24³  General n-angles version rekusion         ³
+   ³ 25³  McCarthy 91 (rekusion) with turtles       ³
+   ÀÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+

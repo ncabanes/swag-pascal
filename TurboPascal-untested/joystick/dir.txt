@@ -1,0 +1,21 @@
+SWAG Title: JOYSTICK ROUTINES
+0001.PAS      05-28-93  13:49  "JOYSTCK1.PAS" by SWAG SUPPORT TEAM
+0002.PAS      05-28-93  13:49  "JOYSTCK2.PAS" by SWAG SUPPORT TEAM
+0003.PAS      05-28-93  13:49  "JOYSTCK3.PAS" by SWAG SUPPORT TEAM
+0004.PAS      05-28-93  13:49  "JOYSTCK4.PAS" by SWAG SUPPORT TEAM
+0005.PAS      05-28-93  13:49  "JOYSTCK5.PAS" by SWAG SUPPORT TEAM
+0006.PAS      05-31-93  08:11  "Two Joysticks" by SWAG SUPPORT TEAM
+0007.PAS      01-27-94  12:10  "Joystick Manipulation" by RICHARD GODBEE
+0008.PAS      01-27-94  12:10  "Joystick Routines" by WESLEY R. ELSBERRY
+0009.PAS      02-09-94  11:50  "Joystick Reading" by LOU DUCHEZ
+0010.PAS      05-25-94  08:17  "Joystick interface" by IAN HINSON
+0011.PAS      05-25-94  08:17  "Accessing The Joystick" by SEAN PALMER
+0012.PAS      05-25-94  08:17  "Joystick Testing" by CHRIS WILPER
+0013.PAS      08-24-94  13:44  "Joystick" by CHRISTOPHER CHANDRA
+0014.PAS      02-28-95  10:01  "More Joystick code" by MICHAEL GENESIS
+0015.PAS      05-26-95  23:18  "Joystick Pin Descriptions" by BRYAN WILLIAMS
+0016.PAS      11-22-95  13:28  "Joystick Units" by SEAN PALMER
+0017.PAS      11-22-95  13:28  "Joystick Reading" by SAREL WESSELS
+0018.PAS      05-31-96  09:16  "How do I use a joystick in TP70??" by JAN GESKE
+0019.PAS      08-30-96  09:36  "OOP Joystick Module" by AD RIEDIJK
+0020.PAS      08-30-97  10:08  "Programming the PC JOYSTICK" by MCGOWAN/FELDMAN
