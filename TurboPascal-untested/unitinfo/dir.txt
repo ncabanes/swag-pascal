@@ -1,8 +1,0 @@
-SWAG Title: UNIT INFORMATION ROUTINES
-0001.PAS      05-28-93  14:09  "DEBUG Information" by SWAG SUPPORT TEAM
-0002.PAS      05-28-93  14:09  "Interface Shell Unit" by SWAG SUPPORT TEAM
-0003.PAS      05-28-93  14:09  "Global Types In UNIT" by SWAG SUPPORT TEAM
-0004.PAS      11-26-94  05:05  "DLL Information" by ANDREW EIGUS
-0005.PAS      08-30-97  10:09  "Show whice version of TP unit" by DOTAN BARAK
-0006.PAS      01-02-98  07:34  "print the dependencies of TP units" by UWE MAEDER
-0007.PAS      01-02-98  07:35  "Code Profiler" by RALF ROSENKRANZ
