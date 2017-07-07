@@ -210,7 +210,7 @@ line.
 
 ```pascal
 write(a_number);
-```pascal
+```
 
 This command writes the contents of a_number to the screen without a
 new line.
@@ -240,8 +240,8 @@ program tutorial3;
 Proper events in this program will be (as it will appear on the screen):
 
 ```txt
-Type some text and press ENTER when done: <input text here>
-You just typed the following: <text here>
+Type some text and press ENTER when done: (input text here)
+You just typed the following: (text here)
 ```
 
 The readln prompts you to enter text which is rewritten with the last
@@ -278,7 +278,7 @@ your benefit.
 If you wish me to give your code from the practice programming problems in
 this tutorial a quick look, send 'em to me at ggrotz@2sprint.net.
 
-###Practice Programming Problem for Tutorial Part 1
+### Practice Programming Problem for Tutorial Part 1
 
 Write a Pascal program (and entirely Pascal) which will accept
 two integers from the keyboard, presenting the user with a prompt to
@@ -301,7 +301,7 @@ Example Monitor Screen (using 14 and 7):
 
 Good luck!  And a solution to this problem will appear in part two!
 
-###Next Time
+### Next Time
 
 Next time, we will discuss the use of decision-making (IF statements) in
 Pascal programming, as well as loops which repeat a defined, set number of
