@@ -1,10 +1,7 @@
-
-
-
 ## Pascal Tutorial: Learning Pascal  
 by Glenn Grotzinger
 
-###Part 1 -- Starting Out.  
+### Part 1 -- Starting Out.  
 all parts copyright (c) 1995-1996 by Glenn Grotzinger.
 
 ```txt
