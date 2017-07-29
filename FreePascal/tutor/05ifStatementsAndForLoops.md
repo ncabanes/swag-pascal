@@ -1,18 +1,17 @@
-(*
+## Turbo Pascal for DOS Tutorial
+by Glenn Grotzinger
+
+### Part 2 -- IF statements and FOR loops.
+all parts copyright 1995-96 (c) by Glenn Grotzinger.
+
+```txt
   Category: SWAG Title: PASCAL TUTORS
   Original name: 0005.PAS
   Description: 05-IF statements and FOR Loops
   Author: GLENN GROTZINGER
   Date: 11-28-96  09:37
-*)
+```
 
-## Turbo Pascal for DOS Tutorial
-
-by Glenn Grotzinger
-
-### Part 2 -- IF statements and FOR loops.
-                             
-all parts copyright 1995-96 (c) by Glenn Grotzinger.
 
 Hello again.  This part got in a little late (finals in COBOL
 programming).  We'll get started with IF statements and FOR loops after
@@ -333,8 +332,10 @@ for it by lining up the row counters like you have the answer columns.
 Treat what you see above for the table literally (the left side of the file
 as the left side of the screen) For example:
 
+```txt
  9
 10
+```
 
 Good luck, and a solution to this problem will appear in part 3!  Remember
 to document your code (sort of like I did with the part 1 answer), and try
