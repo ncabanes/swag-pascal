@@ -41,5 +41,8 @@ begin
       Write(bell);
   end
   else
+  begin
+    WriteLn('Usage: +h/-h filename');
     Write(bell);
+  end
 end.
