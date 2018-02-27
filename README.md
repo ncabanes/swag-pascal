@@ -11,6 +11,6 @@ Approximate number of source files (currently):
 
 - Original Turbo Pascal examples: 4.188
 
-- Tested and working with Free Pascal: 335 (more to come)
+- Tested and working with Free Pascal: 350 (more to come)
 
-- Remaining untested examples: 1.200
+- Remaining untested examples: 1.150
